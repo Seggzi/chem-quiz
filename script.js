@@ -374,210 +374,270 @@ const topics = {
         answer: 1,
       },
       {
-    question: "What is the oxidation state of chromium in Cr₂O₇²⁻?",
-    options: ["+6", "+3", "+2", "+4"],
-    answer: 0
-  },
-  {
-    question: "Which transition metal forms a pale green solution as Fe²⁺?",
-    options: ["Iron", "Nickel", "Cobalt", "Chromium"],
-    answer: 0
-  },
-  {
-    question: "Which of the following complexes is square planar?",
-    options: ["[NiCl₄]²⁻", "[PtCl₄]²⁻", "[Fe(CN)₆]³⁻", "[Cr(NH₃)₆]³⁺"],
-    answer: 1
-  },
-  {
-    question: "What is the geometry of [Fe(CN)₆]³⁻?",
-    options: ["Octahedral", "Tetrahedral", "Square planar", "Linear"],
-    answer: 0
-  },
-  {
-    question: "Which d-orbital transition causes color in transition metal ions?",
-    options: ["s to p", "d to s", "d to d", "p to d"],
-    answer: 2
-  },
-  {
-    question: "Which ligand can form a chelate complex?",
-    options: ["H₂O", "Cl⁻", "NH₃", "en (ethane-1,2-diamine)"],
-    answer: 3
-  },
-  {
-    question: "Which oxidation state is most stable for Fe?",
-    options: ["+1", "+2", "+3", "+6"],
-    answer: 2
-  },
-  {
-    question: "Which color is typical of Ni²⁺ in aqueous solution?",
-    options: ["Pink", "Green", "Yellow", "Blue"],
-    answer: 1
-  },
-  {
-    question: "What is the role of transition metals in catalysis?",
-    options: ["Reducing agents", "Forming new elements", "Providing active sites", "Breaking bonds permanently"],
-    answer: 2
-  },
-  {
-    question: "Which transition metal ion is diamagnetic?",
-    options: ["Fe³⁺", "Zn²⁺", "Cu²⁺", "Co²⁺"],
-    answer: 1
-  },
-  {
-    question: "Which feature of transition metals allows them to form complex ions?",
-    options: ["High ionization energy", "Empty d orbitals", "Non-metallic nature", "Low reactivity"],
-    answer: 1
-  },
-  {
-    question: "Which of these ligands is monodentate?",
-    options: ["Oxalate", "EDTA", "H₂O", "en"],
-    answer: 2
-  },
-  {
-    question: "Which of these has the highest crystal field splitting energy?",
-    options: ["[Fe(H₂O)₆]²⁺", "[Fe(CN)₆]³⁻", "[Cu(H₂O)₄]²⁺", "[NiCl₄]²⁻"],
-    answer: 1
-  },
-  {
-    question: "Which factor affects the color of a transition metal complex?",
-    options: ["Number of neutrons", "Ligand field strength", "Atomic mass", "Melting point"],
-    answer: 1
-  },
-  {
-    question: "Why is Zn²⁺ colorless?",
-    options: ["Filled d-orbitals", "Empty d-orbitals", "d-d transitions", "Unpaired electrons"],
-    answer: 0
-  },
-  {
-    question: "Which of the following is a polydentate ligand?",
-    options: ["H₂O", "NH₃", "EDTA", "Cl⁻"],
-    answer: 2
-  },
-  {
-    question: "What is the shape of [Ni(CN)₄]²⁻?",
-    options: ["Octahedral", "Square planar", "Tetrahedral", "Trigonal planar"],
-    answer: 1
-  },
-  {
-    question: "Which ion shows a yellow color in solution?",
-    options: ["Fe²⁺", "Fe³⁺", "Cu⁺", "Co²⁺"],
-    answer: 1
-  },
-  {
-    question: "Which transition metal ion has a d⁶ configuration?",
-    options: ["Fe²⁺", "Mn²⁺", "Cr³⁺", "Ni²⁺"],
-    answer: 0
-  },
-  {
-    question: "Which is a feature of first-row transition metals?",
-    options: ["Only one oxidation state", "High reactivity", "Similar atomic sizes", "No catalytic properties"],
-    answer: 2
-  },
-  {
-    question: "Which of the following is a strong field ligand?",
-    options: ["H₂O", "NH₃", "CN⁻", "F⁻"],
-    answer: 2
-  },
-  {
-    question: "What color is Co²⁺ in aqueous solution?",
-    options: ["Pink", "Green", "Blue", "Yellow"],
-    answer: 0
-  },
-  {
-    question: "Which of these has a d⁵ electron configuration in its +3 state?",
-    options: ["Mn", "Fe", "Cr", "Co"],
-    answer: 2
-  },
-  {
-    question: "Which metal can form both +2 and +3 oxidation states commonly?",
-    options: ["Zn", "Fe", "Na", "Mg"],
-    answer: 1
-  },
-  {
-    question: "What type of magnetism does Cu²⁺ show?",
-    options: ["Ferromagnetic", "Paramagnetic", "Diamagnetic", "Antimagnetic"],
-    answer: 1
-  },
-  {
-    question: "Which orbital is split in a transition metal complex?",
-    options: ["s", "p", "d", "f"],
-    answer: 2
-  },
-  {
-    question: "What causes ligand field splitting?",
-    options: ["Electric current", "Covalent bonding", "Ligand approach", "Size of the metal"],
-    answer: 2
-  },
-  {
-    question: "What is the oxidation state of Co in [Co(NH₃)₆]³⁺?",
-    options: ["+2", "+3", "+1", "0"],
-    answer: 1
-  },
-  {
-    question: "Which transition metal is found in chlorophyll?",
-    options: ["Iron", "Copper", "Magnesium", "Manganese"],
-    answer: 2
-  },
-  {
-    question: "What is the geometry of [Cr(H₂O)₆]³⁺?",
-    options: ["Octahedral", "Tetrahedral", "Square planar", "Trigonal bipyramidal"],
-    answer: 0
-  },
-  {
-    question: "Which ion has no unpaired electrons?",
-    options: ["Mn²⁺", "Zn²⁺", "Fe²⁺", "Ni²⁺"],
-    answer: 1
-  },
-  {
-    question: "Which ligand would cause the greatest splitting of d-orbitals?",
-    options: ["I⁻", "Br⁻", "NH₃", "CN⁻"],
-    answer: 3
-  },
-  {
-    question: "Which transition metal ion is yellow in acidic solution as chromate?",
-    options: ["Cr³⁺", "CrO₄²⁻", "Cr₂O₇²⁻", "Cr⁶⁺"],
-    answer: 1
-  },
-  {
-    question: "Which oxidation state of copper is more stable in aqueous solution?",
-    options: ["+1", "+2", "+3", "0"],
-    answer: 1
-  },
-  {
-    question: "What is a coordination compound?",
-    options: ["Ionic salt", "Compound with ligands around a central atom", "Non-metallic element", "Redox pair"],
-    answer: 1
-  },
-  {
-    question: "Which transition element is part of vitamin B12?",
-    options: ["Cobalt", "Nickel", "Zinc", "Iron"],
-    answer: 0
-  },
-  {
-    question: "What is the oxidation number of Fe in Fe₂O₃?",
-    options: ["+2", "+3", "+4", "+6"],
-    answer: 1
-  },
-  {
-    question: "Which of the following ions is colorless in solution?",
-    options: ["Zn²⁺", "Fe³⁺", "Cr³⁺", "Mn²⁺"],
-    answer: 0
-  },
-  {
-    question: "Which transition element is used in rechargeable batteries?",
-    options: ["Zn", "Mn", "Cr", "Co"],
-    answer: 3
-  },
-  {
-    question: "Which transition metal forms a violet solution as [Cr(H₂O)₆]³⁺?",
-    options: ["Manganese", "Chromium", "Cobalt", "Nickel"],
-    answer: 1
-  },
-  {
-    question: "What type of hybridization is shown in [Ni(CN)₄]²⁻?",
-    options: ["sp³", "sp²", "dsp²", "sp³d"],
-    answer: 2
-  }
+        question: "What is the oxidation state of chromium in Cr₂O₇²⁻?",
+        options: ["+6", "+3", "+2", "+4"],
+        answer: 0,
+      },
+      {
+        question: "Which transition metal forms a pale green solution as Fe²⁺?",
+        options: ["Iron", "Nickel", "Cobalt", "Chromium"],
+        answer: 0,
+      },
+      {
+        question: "Which of the following complexes is square planar?",
+        options: ["[NiCl₄]²⁻", "[PtCl₄]²⁻", "[Fe(CN)₆]³⁻", "[Cr(NH₃)₆]³⁺"],
+        answer: 1,
+      },
+      {
+        question: "What is the geometry of [Fe(CN)₆]³⁻?",
+        options: ["Octahedral", "Tetrahedral", "Square planar", "Linear"],
+        answer: 0,
+      },
+      {
+        question:
+          "Which d-orbital transition causes color in transition metal ions?",
+        options: ["s to p", "d to s", "d to d", "p to d"],
+        answer: 2,
+      },
+      {
+        question: "Which ligand can form a chelate complex?",
+        options: ["H₂O", "Cl⁻", "NH₃", "en (ethane-1,2-diamine)"],
+        answer: 3,
+      },
+      {
+        question: "Which oxidation state is most stable for Fe?",
+        options: ["+1", "+2", "+3", "+6"],
+        answer: 2,
+      },
+      {
+        question: "Which color is typical of Ni²⁺ in aqueous solution?",
+        options: ["Pink", "Green", "Yellow", "Blue"],
+        answer: 1,
+      },
+      {
+        question: "What is the role of transition metals in catalysis?",
+        options: [
+          "Reducing agents",
+          "Forming new elements",
+          "Providing active sites",
+          "Breaking bonds permanently",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which transition metal ion is diamagnetic?",
+        options: ["Fe³⁺", "Zn²⁺", "Cu²⁺", "Co²⁺"],
+        answer: 1,
+      },
+      {
+        question:
+          "Which feature of transition metals allows them to form complex ions?",
+        options: [
+          "High ionization energy",
+          "Empty d orbitals",
+          "Non-metallic nature",
+          "Low reactivity",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which of these ligands is monodentate?",
+        options: ["Oxalate", "EDTA", "H₂O", "en"],
+        answer: 2,
+      },
+      {
+        question:
+          "Which of these has the highest crystal field splitting energy?",
+        options: ["[Fe(H₂O)₆]²⁺", "[Fe(CN)₆]³⁻", "[Cu(H₂O)₄]²⁺", "[NiCl₄]²⁻"],
+        answer: 1,
+      },
+      {
+        question:
+          "Which factor affects the color of a transition metal complex?",
+        options: [
+          "Number of neutrons",
+          "Ligand field strength",
+          "Atomic mass",
+          "Melting point",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Why is Zn²⁺ colorless?",
+        options: [
+          "Filled d-orbitals",
+          "Empty d-orbitals",
+          "d-d transitions",
+          "Unpaired electrons",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is a polydentate ligand?",
+        options: ["H₂O", "NH₃", "EDTA", "Cl⁻"],
+        answer: 2,
+      },
+      {
+        question: "What is the shape of [Ni(CN)₄]²⁻?",
+        options: [
+          "Octahedral",
+          "Square planar",
+          "Tetrahedral",
+          "Trigonal planar",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which ion shows a yellow color in solution?",
+        options: ["Fe²⁺", "Fe³⁺", "Cu⁺", "Co²⁺"],
+        answer: 1,
+      },
+      {
+        question: "Which transition metal ion has a d⁶ configuration?",
+        options: ["Fe²⁺", "Mn²⁺", "Cr³⁺", "Ni²⁺"],
+        answer: 0,
+      },
+      {
+        question: "Which is a feature of first-row transition metals?",
+        options: [
+          "Only one oxidation state",
+          "High reactivity",
+          "Similar atomic sizes",
+          "No catalytic properties",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which of the following is a strong field ligand?",
+        options: ["H₂O", "NH₃", "CN⁻", "F⁻"],
+        answer: 2,
+      },
+      {
+        question: "What color is Co²⁺ in aqueous solution?",
+        options: ["Pink", "Green", "Blue", "Yellow"],
+        answer: 0,
+      },
+      {
+        question:
+          "Which of these has a d⁵ electron configuration in its +3 state?",
+        options: ["Mn", "Fe", "Cr", "Co"],
+        answer: 2,
+      },
+      {
+        question:
+          "Which metal can form both +2 and +3 oxidation states commonly?",
+        options: ["Zn", "Fe", "Na", "Mg"],
+        answer: 1,
+      },
+      {
+        question: "What type of magnetism does Cu²⁺ show?",
+        options: [
+          "Ferromagnetic",
+          "Paramagnetic",
+          "Diamagnetic",
+          "Antimagnetic",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which orbital is split in a transition metal complex?",
+        options: ["s", "p", "d", "f"],
+        answer: 2,
+      },
+      {
+        question: "What causes ligand field splitting?",
+        options: [
+          "Electric current",
+          "Covalent bonding",
+          "Ligand approach",
+          "Size of the metal",
+        ],
+        answer: 2,
+      },
+      {
+        question: "What is the oxidation state of Co in [Co(NH₃)₆]³⁺?",
+        options: ["+2", "+3", "+1", "0"],
+        answer: 1,
+      },
+      {
+        question: "Which transition metal is found in chlorophyll?",
+        options: ["Iron", "Copper", "Magnesium", "Manganese"],
+        answer: 2,
+      },
+      {
+        question: "What is the geometry of [Cr(H₂O)₆]³⁺?",
+        options: [
+          "Octahedral",
+          "Tetrahedral",
+          "Square planar",
+          "Trigonal bipyramidal",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which ion has no unpaired electrons?",
+        options: ["Mn²⁺", "Zn²⁺", "Fe²⁺", "Ni²⁺"],
+        answer: 1,
+      },
+      {
+        question:
+          "Which ligand would cause the greatest splitting of d-orbitals?",
+        options: ["I⁻", "Br⁻", "NH₃", "CN⁻"],
+        answer: 3,
+      },
+      {
+        question:
+          "Which transition metal ion is yellow in acidic solution as chromate?",
+        options: ["Cr³⁺", "CrO₄²⁻", "Cr₂O₇²⁻", "Cr⁶⁺"],
+        answer: 1,
+      },
+      {
+        question:
+          "Which oxidation state of copper is more stable in aqueous solution?",
+        options: ["+1", "+2", "+3", "0"],
+        answer: 1,
+      },
+      {
+        question: "What is a coordination compound?",
+        options: [
+          "Ionic salt",
+          "Compound with ligands around a central atom",
+          "Non-metallic element",
+          "Redox pair",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which transition element is part of vitamin B12?",
+        options: ["Cobalt", "Nickel", "Zinc", "Iron"],
+        answer: 0,
+      },
+      {
+        question: "What is the oxidation number of Fe in Fe₂O₃?",
+        options: ["+2", "+3", "+4", "+6"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following ions is colorless in solution?",
+        options: ["Zn²⁺", "Fe³⁺", "Cr³⁺", "Mn²⁺"],
+        answer: 0,
+      },
+      {
+        question: "Which transition element is used in rechargeable batteries?",
+        options: ["Zn", "Mn", "Cr", "Co"],
+        answer: 3,
+      },
+      {
+        question:
+          "Which transition metal forms a violet solution as [Cr(H₂O)₆]³⁺?",
+        options: ["Manganese", "Chromium", "Cobalt", "Nickel"],
+        answer: 1,
+      },
+      {
+        question: "What type of hybridization is shown in [Ni(CN)₄]²⁻?",
+        options: ["sp³", "sp²", "dsp²", "sp³d"],
+        answer: 2,
+      },
     ],
     hard: [
       {
@@ -665,7 +725,295 @@ const topics = {
         ],
         answer: 2,
       },
-      // Add 40 more...
+      {
+        question: "In IR spectroscopy, the C=O stretch typically appears near:",
+        options: ["2200 cm⁻¹", "1700 cm⁻¹", "1500 cm⁻¹", "3000 cm⁻¹"],
+        answer: 1,
+      },
+      {
+        question: "Which nuclei are NMR-active?",
+        options: [
+          "Even protons and neutrons",
+          "Even-even nuclei",
+          "Nuclei with odd mass or atomic numbers",
+          "All isotopes",
+        ],
+        answer: 2,
+      },
+      {
+        question: "In mass spectrometry, what causes M+2 peaks?",
+        options: ["Isotopes", "Contamination", "Fragmentation", "Dimerization"],
+        answer: 0,
+      },
+      {
+        question: "Which transition metal ion is EPR active?",
+        options: ["Zn²⁺", "Ni²⁺", "Fe³⁺", "Cu⁺"],
+        answer: 2,
+      },
+      {
+        question: "Which solvent is typically used in proton NMR?",
+        options: ["H₂O", "CDCl₃", "D₂O", "CCl₄"],
+        answer: 1,
+      },
+      {
+        question:
+          "Which splitting pattern arises from 2 equivalent adjacent protons in NMR?",
+        options: ["Doublet", "Triplet", "Quartet", "Singlet"],
+        answer: 1,
+      },
+      {
+        question: "A singlet in a ¹H NMR spectrum indicates:",
+        options: [
+          "Two neighbors",
+          "No neighboring hydrogens",
+          "Three neighbors",
+          "One neighbor",
+        ],
+        answer: 1,
+      },
+      {
+        question: "The 'g' value in EPR indicates:",
+        options: [
+          "Magnetic moment",
+          "Spin multiplicity",
+          "Magnetic field strength",
+          "Electron environment",
+        ],
+        answer: 3,
+      },
+      {
+        question: "In UV-Vis, π→π* transitions occur in:",
+        options: ["Alkanes", "Alkenes", "Alkynes", "Aromatic rings"],
+        answer: 3,
+      },
+      {
+        question: "Which element causes hyperfine splitting in EPR?",
+        options: ["Hydrogen", "Helium", "Fluorine", "Oxygen"],
+        answer: 0,
+      },
+      {
+        question: "The McLafferty rearrangement involves:",
+        options: [
+          "Loss of methyl group",
+          "γ-Hydrogen transfer",
+          "Charge migration",
+          "Ring opening",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which of the following is not a fingerprint region in IR?",
+        options: [
+          "1000–1300 cm⁻¹",
+          "600–900 cm⁻¹",
+          "1500–2000 cm⁻¹",
+          "400–1500 cm⁻¹",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which isotope is commonly used in phosphorus NMR?",
+        options: ["³¹P", "³²P", "³⁰P", "³³P"],
+        answer: 0,
+      },
+      {
+        question: "In EPR spectroscopy, what is detected?",
+        options: [
+          "Electrons in bonding orbitals",
+          "Unpaired electrons",
+          "Nuclear spins",
+          "Photon energy",
+        ],
+        answer: 1,
+      },
+      {
+        question:
+          "The splitting of d-orbitals in an octahedral field results in:",
+        options: ["eg and t2g", "px and py", "sp and sp³", "t and e"],
+        answer: 0,
+      },
+      {
+        question: "Which transition metal complex is low spin?",
+        options: ["[Fe(H₂O)₆]²⁺", "[CoF₆]³⁻", "[Fe(CN)₆]³⁻", "[CrCl₄]⁻"],
+        answer: 2,
+      },
+      {
+        question: "In ¹³C NMR, the number of signals corresponds to:",
+        options: [
+          "Number of carbon atoms",
+          "Number of unique carbon environments",
+          "Mass of carbon",
+          "Number of protons",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which of the following ligands causes high field splitting?",
+        options: ["H₂O", "Cl⁻", "NH₃", "CN⁻"],
+        answer: 3,
+      },
+      {
+        question: "Which is a triplet of doublets in ¹H NMR likely caused by?",
+        options: [
+          "Two sets of equivalent protons",
+          "Three neighboring protons",
+          "Two non-equivalent proton groups",
+          "Exchange with solvent",
+        ],
+        answer: 2,
+      },
+      {
+        question: "In DEPT-135, which carbon types appear inverted?",
+        options: ["CH", "CH₂", "CH₃", "C (quaternary)"],
+        answer: 1,
+      },
+      {
+        question: "The most intense peak in a mass spectrum is called:",
+        options: ["Parent peak", "Molecular ion", "Base peak", "Fragment peak"],
+        answer: 2,
+      },
+      {
+        question: "Which of the following is not observed in ¹H NMR?",
+        options: [
+          "Exchangeable protons",
+          "Shielded protons",
+          "Coupled protons",
+          "Neutron interactions",
+        ],
+        answer: 3,
+      },
+      {
+        question:
+          "What type of transition occurs in UV-Vis for conjugated systems?",
+        options: ["σ→σ*", "π→π*", "n→σ*", "d→d"],
+        answer: 1,
+      },
+      {
+        question: "In IR, a broad peak around 3300 cm⁻¹ is due to:",
+        options: ["CH", "NH", "OH", "CO"],
+        answer: 2,
+      },
+      {
+        question: "Transition metals show color due to:",
+        options: ["π→π*", "Charge transfer", "d-d transitions", "IR activity"],
+        answer: 2,
+      },
+      {
+        question:
+          "Which isotope is commonly used in proton decoupling for ¹³C NMR?",
+        options: ["¹H", "²H", "¹³C", "¹⁴N"],
+        answer: 0,
+      },
+      {
+        question: "What is the origin of splitting in NMR spectra?",
+        options: [
+          "Instrument resolution",
+          "External field",
+          "Spin-spin coupling",
+          "Shielding effects",
+        ],
+        answer: 2,
+      },
+      {
+        question:
+          "Which functional group shows strong IR absorption near 2250 cm⁻¹?",
+        options: ["Carboxylic acid", "Nitrile", "Ketone", "Alkene"],
+        answer: 1,
+      },
+      {
+        question: "Which species will show EPR spectrum?",
+        options: ["Zn²⁺", "Fe²⁺", "Cr³⁺", "Cu²⁺"],
+        answer: 3,
+      },
+      {
+        question:
+          "Which region in the IR spectrum is known as the fingerprint region?",
+        options: [
+          "<1500 cm⁻¹",
+          "1500–2000 cm⁻¹",
+          "2000–2500 cm⁻¹",
+          ">3000 cm⁻¹",
+        ],
+        answer: 0,
+      },
+      {
+        question: "TMS is used as a reference in NMR because it is:",
+        options: [
+          "Acidic",
+          "Paramagnetic",
+          "Inert and volatile",
+          "Highly polar",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which of the following shows satellite peaks in ¹H NMR?",
+        options: [
+          "¹H-¹H coupling",
+          "¹³C coupling",
+          "Spin echo",
+          "Exchangeable protons",
+        ],
+        answer: 1,
+      },
+      {
+        question:
+          "Which compound will have the highest chemical shift in ¹H NMR?",
+        options: ["Alkane", "Alkyne", "Aldehyde", "Ether"],
+        answer: 2,
+      },
+      {
+        question: "What is the principle of EPR spectroscopy?",
+        options: [
+          "Nuclear spin transitions",
+          "Magnetic field gradient",
+          "Unpaired electron spin transitions",
+          "Absorption of visible light",
+        ],
+        answer: 2,
+      },
+      {
+        question:
+          "Which ion has a d⁷ configuration in octahedral field (low spin)?",
+        options: ["Co³⁺", "Fe²⁺", "Ni²⁺", "Mn²⁺"],
+        answer: 0,
+      },
+      {
+        question:
+          "Which of these is not an allowed electronic transition in UV-Vis?",
+        options: ["π→π*", "σ→σ*", "d→s", "n→π*"],
+        answer: 2,
+      },
+      {
+        question: "Why is CDCl₃ used instead of CHCl₃ in ¹H NMR?",
+        options: [
+          "It's cheaper",
+          "It is more volatile",
+          "Does not interfere with proton signals",
+          "Provides better resolution",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which rule explains the splitting of NMR signals?",
+        options: [
+          "Nernst equation",
+          "Pascal's triangle",
+          "Beer-Lambert law",
+          "Heisenberg rule",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which IR band is indicative of a nitro group?",
+        options: ["~1700 cm⁻¹", "~1600 cm⁻¹", "1300–1550 cm⁻¹", "~2200 cm⁻¹"],
+        answer: 2,
+      },
+      {
+        question: "Which technique distinguishes CH, CH₂, and CH₃ groups?",
+        options: ["¹³C NMR", "DEPT NMR", "UV-Vis", "Mass Spectrometry"],
+        answer: 1,
+      },
     ],
   },
 
@@ -721,7 +1069,216 @@ const topics = {
         options: ["CH₃CH₂OH", "CH₃COCH₃", "CH₃CHO", "HCOOH"],
         answer: 1,
       },
-      // Add 40 more...
+      {
+        question: "What is the name of CH₃CH₃?",
+        options: ["Methane", "Ethane", "Propane", "Butane"],
+        answer: 1,
+      },
+      {
+        question: "The prefix 'meth-' indicates how many carbon atoms?",
+        options: ["1", "2", "3", "4"],
+        answer: 0,
+      },
+      {
+        question: "What type of compound is CH₃CH₂CH₂CH₃?",
+        options: ["Alkane", "Alkene", "Alkyne", "Alcohol"],
+        answer: 0,
+      },
+      {
+        question: "Which functional group is found in all alcohols?",
+        options: ["–COOH", "–OH", "–NH₂", "–CO–"],
+        answer: 1,
+      },
+      {
+        question: "What is the name of CH₃OH?",
+        options: ["Methanol", "Ethanol", "Propanol", "Butanol"],
+        answer: 0,
+      },
+      {
+        question: "The IUPAC name of HCHO is:",
+        options: ["Methanol", "Formaldehyde", "Methanal", "Methanoic acid"],
+        answer: 2,
+      },
+      {
+        question: "Which of these is an alkene?",
+        options: ["CH₄", "CH₃CH₃", "CH₂=CH₂", "CH≡CH"],
+        answer: 2,
+      },
+      {
+        question: "Which of the following is a hydrocarbon?",
+        options: ["CH₄", "H₂O", "CO₂", "NH₃"],
+        answer: 0,
+      },
+      {
+        question: "Which element is always present in organic compounds?",
+        options: ["Oxygen", "Carbon", "Nitrogen", "Sulfur"],
+        answer: 1,
+      },
+      {
+        question: "The compound CH₃COOH is classified as:",
+        options: ["Alcohol", "Ester", "Carboxylic acid", "Amide"],
+        answer: 2,
+      },
+      {
+        question: "Which gas is a saturated hydrocarbon?",
+        options: ["Ethene", "Methane", "Propyne", "Benzene"],
+        answer: 1,
+      },
+      {
+        question: "The functional group of aldehydes is:",
+        options: ["–CHO", "–OH", "–CO–", "–COOH"],
+        answer: 0,
+      },
+      {
+        question: "How many bonds does carbon typically form?",
+        options: ["1", "2", "3", "4"],
+        answer: 3,
+      },
+      {
+        question: "What is the simplest alkene?",
+        options: ["Methane", "Ethene", "Propene", "Butene"],
+        answer: 1,
+      },
+      {
+        question: "Which name represents CH₃CH₂CH₃?",
+        options: ["Methane", "Ethane", "Propane", "Butane"],
+        answer: 2,
+      },
+      {
+        question: "Which of the following is a carboxylic acid?",
+        options: ["CH₃CH₂OH", "CH₃COOH", "CH₄", "CH₃CHO"],
+        answer: 1,
+      },
+      {
+        question: "Which compound contains a triple bond?",
+        options: ["CH₄", "CH₂=CH₂", "CH≡CH", "CH₃CH₃"],
+        answer: 2,
+      },
+      {
+        question: "The name ending '-one' indicates a:",
+        options: ["Carboxylic acid", "Alcohol", "Ketone", "Ester"],
+        answer: 2,
+      },
+      {
+        question: "What is the name for CH₃CH=CH₂?",
+        options: ["Propene", "Propane", "Propyne", "Methene"],
+        answer: 0,
+      },
+      {
+        question: "Which is the correct name for CH₃CH₂CHO?",
+        options: ["Ethanol", "Propanoic acid", "Propanone", "Propanal"],
+        answer: 3,
+      },
+      {
+        question: "What is the IUPAC name of vinegar's active ingredient?",
+        options: [
+          "Formic acid",
+          "Methanoic acid",
+          "Ethanoic acid",
+          "Acetic acid",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which compound is a simple ether?",
+        options: ["CH₃OCH₃", "CH₃OH", "CH₄", "CH₃CH₂OH"],
+        answer: 0,
+      },
+      {
+        question: "The prefix 'prop-' means how many carbons?",
+        options: ["2", "3", "4", "5"],
+        answer: 1,
+      },
+      {
+        question: "Which functional group is in CH₃CH₂NH₂?",
+        options: ["Alcohol", "Amine", "Amide", "Aldehyde"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following is NOT a functional group?",
+        options: ["Alkane", "Ketone", "Alcohol", "Aldehyde"],
+        answer: 0,
+      },
+      {
+        question: "What is the name of a four-carbon straight-chain alkane?",
+        options: ["Butane", "Propane", "Ethane", "Methane"],
+        answer: 0,
+      },
+      {
+        question: "The general formula for alkanes is:",
+        options: ["CnH₂n", "CnH₂n+1OH", "CnH₂n+2", "CnH₂n−2"],
+        answer: 2,
+      },
+      {
+        question: "Which of these is a saturated hydrocarbon?",
+        options: ["Ethene", "Ethane", "Ethyne", "Propene"],
+        answer: 1,
+      },
+      {
+        question: "Which compound has the formula C₂H₂?",
+        options: ["Ethene", "Ethyne", "Ethane", "Ethanol"],
+        answer: 1,
+      },
+      {
+        question: "The functional group of ketones is:",
+        options: ["–COOH", "–CO–", "–OH", "–CHO"],
+        answer: 1,
+      },
+      {
+        question: "Which of these is an alcohol?",
+        options: ["CH₄", "CH₃OH", "CH₃CH₃", "CH₃COOH"],
+        answer: 1,
+      },
+      {
+        question: "The compound CH₃CHO is an example of:",
+        options: ["Aldehyde", "Alcohol", "Amine", "Ester"],
+        answer: 0,
+      },
+      {
+        question: "Which element forms the backbone of organic molecules?",
+        options: ["Hydrogen", "Carbon", "Oxygen", "Nitrogen"],
+        answer: 1,
+      },
+      {
+        question: "Which compound is a hydrocarbon with one double bond?",
+        options: ["Ethene", "Methane", "Ethane", "Butane"],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is the correct IUPAC name?",
+        options: [
+          "Ethanoic acid",
+          "Acetic acid",
+          "Formic acid",
+          "Ethanol acid",
+        ],
+        answer: 0,
+      },
+      {
+        question: "The –COOH group is found in:",
+        options: ["Carboxylic acids", "Alcohols", "Aldehydes", "Ethers"],
+        answer: 0,
+      },
+      {
+        question: "Which compound contains only single bonds?",
+        options: ["CH₂=CH₂", "CH₃CH₃", "CH≡CH", "CH₃CH=CH₂"],
+        answer: 1,
+      },
+      {
+        question: "The IUPAC name of CH₃CH₂CH₂OH is:",
+        options: ["Propanol", "Butanol", "Methanol", "Ethanol"],
+        answer: 0,
+      },
+      {
+        question: "What is the name of the compound CH₃CH₂CH=CH₂?",
+        options: ["Butane", "Butene", "Butyne", "Propene"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following has an –NH₂ group?",
+        options: ["Methanol", "Methanoic acid", "Methylamine", "Acetone"],
+        answer: 2,
+      },
     ],
     medium: [
       {
@@ -775,7 +1332,222 @@ const topics = {
         options: ["CH₃NH₂", "(CH₃)₂NH", "(CH₃)₃N", "CH₃CONH₂"],
         answer: 0,
       },
-      // Add 40 more...
+
+      {
+        question: "Which of the following is a primary alcohol?",
+        options: [
+          "Propan-2-ol",
+          "Ethanol",
+          "Tert-butanol",
+          "2-methylpropan-2-ol",
+        ],
+        answer: 1,
+      },
+      {
+        question: "The general formula for alkenes is:",
+        options: ["CnH₂n+2", "CnH₂n", "CnH₂n−2", "CnH₂n+1OH"],
+        answer: 1,
+      },
+      {
+        question: "Which of these represents an aldehyde functional group?",
+        options: ["–CHO", "–COOH", "–CO–", "–NH₂"],
+        answer: 0,
+      },
+      {
+        question: "What is the IUPAC name of HCOOH?",
+        options: ["Methanoic acid", "Formic acid", "Formaldehyde", "Methanal"],
+        answer: 0,
+      },
+      {
+        question: "Which compound is an isomer of butanol?",
+        options: ["CH₃CH₂CH₂OH", "CH₃CH₂CH₂CH₃", "CH₃CH(OH)CH₃", "CH₃COOH"],
+        answer: 2,
+      },
+      {
+        question: "Which of the following contains a carboxyl group?",
+        options: ["CH₃COOH", "CH₃CHO", "CH₃CH₂OH", "CH₃CH₂NH₂"],
+        answer: 0,
+      },
+      {
+        question: "What is the functional group in propanal?",
+        options: ["Alcohol", "Ketone", "Aldehyde", "Carboxylic acid"],
+        answer: 2,
+      },
+      {
+        question: "The compound CH₃COCH₃ belongs to which class?",
+        options: ["Aldehyde", "Alcohol", "Ketone", "Amide"],
+        answer: 2,
+      },
+      {
+        question: "Which compound has a triple bond?",
+        options: ["Butene", "Butyne", "Butane", "Propanol"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following is a functional group of ethers?",
+        options: ["–O–", "–OH", "–COOH", "–NH₂"],
+        answer: 0,
+      },
+      {
+        question: "What is the IUPAC name of CH₃CH₂CHO?",
+        options: ["Propanoic acid", "Propanol", "Propanal", "Propanone"],
+        answer: 2,
+      },
+      {
+        question: "Which of these is a saturated hydrocarbon?",
+        options: ["Ethene", "Ethyne", "Ethane", "Benzene"],
+        answer: 2,
+      },
+      {
+        question: "Which functional group does an amide contain?",
+        options: ["–COOH", "–NH₂", "–CO–NH₂", "–O–"],
+        answer: 2,
+      },
+      {
+        question: "What is the IUPAC name for CH₃OCH₂CH₃?",
+        options: [
+          "Methoxyethane",
+          "Ethyl methyl ether",
+          "Propoxyethane",
+          "Ethanol",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which is the correct IUPAC name for isobutane?",
+        options: [
+          "Butane",
+          "2-methylpropane",
+          "Methylpropane",
+          "Isopropylmethane",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which type of compound is CH₃NH₂?",
+        options: ["Amine", "Amide", "Alcohol", "Aldehyde"],
+        answer: 0,
+      },
+      {
+        question: "The functional group –CO– is found in:",
+        options: ["Alcohols", "Ketones", "Aldehydes", "Esters"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following contains a phenol group?",
+        options: ["Benzene", "Phenol", "Toluene", "Aniline"],
+        answer: 1,
+      },
+      {
+        question: "Which molecule is a secondary amine?",
+        options: ["CH₃NH₂", "(CH₃)₂NH", "CH₃CH₂NH₂", "(CH₃)₃N"],
+        answer: 1,
+      },
+      {
+        question: "Which of these compounds is an ester?",
+        options: ["CH₃COOH", "CH₃COOCH₃", "CH₃CH₂OH", "CH₃CHO"],
+        answer: 1,
+      },
+      {
+        question: "Which functional group defines carboxylic acids?",
+        options: ["–COOH", "–CHO", "–CO–", "–OH"],
+        answer: 0,
+      },
+      {
+        question: "What is the IUPAC name of CH₃CH₂CH₂OH?",
+        options: ["Ethanol", "Propan-1-ol", "Methanol", "Propan-2-ol"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following is an alkene?",
+        options: ["CH₄", "CH₃CH=CH₂", "CH₃CH₃", "CH₃C≡CH"],
+        answer: 1,
+      },
+      {
+        question: "Which compound contains a benzene ring?",
+        options: ["Aniline", "Propanol", "Acetone", "Butane"],
+        answer: 0,
+      },
+      {
+        question: "Which functional group is present in CH₃CH₂COOH?",
+        options: ["Ketone", "Alcohol", "Aldehyde", "Carboxylic acid"],
+        answer: 3,
+      },
+      {
+        question: "What is the correct name for CH₃CH₂COOCH₃?",
+        options: [
+          "Methyl propanoate",
+          "Ethyl propanoate",
+          "Methyl ethanoate",
+          "Propyl methanoate",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which of these compounds is an alkyne?",
+        options: ["CH₄", "CH₃CH=CH₂", "CH₃C≡CH", "CH₃CH₂CH₃"],
+        answer: 2,
+      },
+      {
+        question: "What is the name for CH₂=CH–CH₃?",
+        options: ["Propane", "Propyne", "Propene", "Butene"],
+        answer: 2,
+      },
+      {
+        question: "Which compound has an –OH group on a benzene ring?",
+        options: ["Aniline", "Phenol", "Toluene", "Benzaldehyde"],
+        answer: 1,
+      },
+      {
+        question: "Which is an example of a dicarboxylic acid?",
+        options: ["Malonic acid", "Acetic acid", "Benzoic acid", "Lactic acid"],
+        answer: 0,
+      },
+      {
+        question: "The general formula for carboxylic acids is:",
+        options: ["R–OH", "R–COOH", "R–CHO", "R–COOR"],
+        answer: 1,
+      },
+      {
+        question: "The compound CH₃CH(NH₂)COOH is an example of:",
+        options: ["Amino acid", "Amine", "Alcohol", "Amide"],
+        answer: 0,
+      },
+      {
+        question: "Which name corresponds to CH₃CH(OH)CH₃?",
+        options: ["Propan-1-ol", "Propan-2-ol", "Butan-2-ol", "Methanol"],
+        answer: 1,
+      },
+      {
+        question: "Which group makes a compound an amide?",
+        options: ["–CO–", "–COOH", "–CO–NH₂", "–NH₂"],
+        answer: 2,
+      },
+      {
+        question: "Which of these is a carboxylic acid derivative?",
+        options: ["Amide", "Amine", "Alcohol", "Ketone"],
+        answer: 0,
+      },
+      {
+        question: "Which compound is a structural isomer of CH₃CH₂OH?",
+        options: ["CH₃OCH₃", "CH₄", "CH₃CH₃", "CH₃CH₂CH₃"],
+        answer: 0,
+      },
+      {
+        question: "Which class of compounds is characterized by –COOR?",
+        options: ["Amide", "Ester", "Alcohol", "Ketone"],
+        answer: 1,
+      },
+      {
+        question: "What is the IUPAC name of CH₃CH₂OCH₂CH₃?",
+        options: ["Ethoxyethane", "Diethyl ether", "Ethanol", "Butanol"],
+        answer: 0,
+      },
+      {
+        question: "Which functional group gives aldehydes their properties?",
+        options: ["–COOH", "–CHO", "–OH", "–CO–"],
+        answer: 1,
+      },
     ],
     hard: [
       {
@@ -853,7 +1625,276 @@ const topics = {
         ],
         answer: 2,
       },
-      // Add 40 more...
+      {
+        question: "Which functional group is present in aniline?",
+        options: ["Aromatic amine", "Aliphatic amine", "Ketone", "Aldehyde"],
+        answer: 0,
+      },
+      {
+        question: "What is the IUPAC name of CH≡CCH₂CH₃?",
+        options: ["Butyne", "But-1-yne", "But-2-yne", "Propyne"],
+        answer: 1,
+      },
+      {
+        question: "Which compound is a nitrile?",
+        options: ["CH₃CH₂OH", "CH₃CN", "CH₃COOH", "CH₃NH₂"],
+        answer: 1,
+      },
+      {
+        question: "What is the IUPAC name of CH₃CH₂COCH₃?",
+        options: ["Propanone", "Butanone", "Ethanone", "Propanal"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following is a secondary amide?",
+        options: ["CH₃CONH₂", "CH₃CONHCH₃", "CH₃CH₂NH₂", "CH₃NHCH₃"],
+        answer: 1,
+      },
+      {
+        question: "Which name corresponds to CH₂=CHCOOH?",
+        options: [
+          "Ethanoic acid",
+          "Propanoic acid",
+          "Propenoic acid",
+          "Butenoic acid",
+        ],
+        answer: 2,
+      },
+      {
+        question: "In naming branched alkanes, which rule is applied first?",
+        options: [
+          "Alphabetical order",
+          "Shortest chain",
+          "Lowest locant",
+          "Most substituents",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which of the following has an ether functional group?",
+        options: ["CH₃CH₂OCH₃", "CH₃COOH", "CH₃CHO", "CH₃NH₂"],
+        answer: 0,
+      },
+      {
+        question: "The compound CH₃CH=CHCH₂CH₃ is called:",
+        options: ["Pentane", "Pent-2-ene", "Butene", "Propenyl"],
+        answer: 1,
+      },
+      {
+        question: "Which is an IUPAC name for isopropanol?",
+        options: ["Propan-2-ol", "2-methylpropanol", "Propan-1-ol", "Methanol"],
+        answer: 0,
+      },
+      {
+        question: "What is the correct IUPAC name of CH₃CH(NH₂)CH₃?",
+        options: [
+          "2-Aminopropane",
+          "Aminomethane",
+          "Propan-2-amine",
+          "Isopropylamine",
+        ],
+        answer: 2,
+      },
+      {
+        question: "A compound with –COOCH₃ is classified as:",
+        options: ["Ester", "Ether", "Carboxylic acid", "Ketone"],
+        answer: 0,
+      },
+      {
+        question: "Which group takes priority in IUPAC naming?",
+        options: ["Alcohol", "Aldehyde", "Ketone", "Ester"],
+        answer: 3,
+      },
+      {
+        question: "Which of the following is a diacid?",
+        options: ["CH₃COOH", "HOOC–CH₂–COOH", "CH₃CH₂OH", "HCOOH"],
+        answer: 1,
+      },
+      {
+        question: "The name of (CH₃)₂CHCH₂COOH is:",
+        options: [
+          "2-Methylbutanoic acid",
+          "3-Methylbutanoic acid",
+          "Pentanoic acid",
+          "Propanoic acid",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which of these contains both alkene and alcohol groups?",
+        options: ["CH₂=CHCH₂OH", "CH₃CH₂OH", "CH₃COOH", "CH₂=CH₂"],
+        answer: 0,
+      },
+      {
+        question: "What is the IUPAC name of CH₃CONH₂?",
+        options: ["Methanamide", "Ethanamide", "Acetamide", "Propanamide"],
+        answer: 1,
+      },
+      {
+        question: "What type of isomerism is shown by CH₃OCH₃ and CH₃CH₂OH?",
+        options: ["Chain", "Position", "Functional group", "Geometric"],
+        answer: 2,
+      },
+      {
+        question: "Which has a quaternary carbon atom?",
+        options: ["CH₃C(CH₃)₂CH₃", "CH₃CH₂CH₂CH₃", "CH₃CH₂OH", "CH₃CH(NH₂)CH₃"],
+        answer: 0,
+      },
+      {
+        question: "Which compound has the formula C₃H₆O and is a ketone?",
+        options: ["Propanal", "Propanone", "Acetone", "Methanal"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following is an IUPAC name for formic acid?",
+        options: [
+          "Methanoic acid",
+          "Ethanoic acid",
+          "Propenoic acid",
+          "Acetic acid",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is not a functional group isomer?",
+        options: [
+          "Alcohol and ether",
+          "Aldehyde and ketone",
+          "Acid and ester",
+          "Alkane and alkyne",
+        ],
+        answer: 3,
+      },
+      {
+        question: "What is the IUPAC name of CH₃CH₂CH₂NH₂?",
+        options: [
+          "Propylamine",
+          "Propan-1-amine",
+          "Aminopropane",
+          "Ethylamine",
+        ],
+        answer: 1,
+      },
+      {
+        question: "How many isomers does C₄H₁₀ have?",
+        options: ["1", "2", "3", "4"],
+        answer: 1,
+      },
+      {
+        question: "Which compound has a tertiary carbon center?",
+        options: ["CH₃CH₂CH₂CH₃", "(CH₃)₃C–OH", "CH₃CH₂CH₂OH", "CH₃CH(OH)CH₃"],
+        answer: 1,
+      },
+      {
+        question: "The compound CH₃CH(NH₂)CH₃ is classified as:",
+        options: [
+          "Primary amine",
+          "Secondary amine",
+          "Tertiary amine",
+          "Primary alcohol",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which compound is an alpha-hydroxy acid?",
+        options: [
+          "Lactic acid",
+          "Acetic acid",
+          "Butanoic acid",
+          "Acrylic acid",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which class does acetamide belong to?",
+        options: ["Ester", "Amide", "Acid", "Aldehyde"],
+        answer: 1,
+      },
+      {
+        question: "The IUPAC name for HCOOCH₃ is:",
+        options: [
+          "Methyl formate",
+          "Methyl methanoate",
+          "Formic ester",
+          "Methanoic ester",
+        ],
+        answer: 1,
+      },
+      {
+        question: "What is the structure of 2-methylpropan-2-ol?",
+        options: [
+          "Tert-butanol",
+          "Isopropanol",
+          "Propan-2-ol",
+          "Ethyl alcohol",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is an aromatic acid?",
+        options: [
+          "Formic acid",
+          "Benzoic acid",
+          "Propanoic acid",
+          "Butanoic acid",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which of the following is the correct name for CH₃CH₂COOH?",
+        options: [
+          "Ethanoic acid",
+          "Propanoic acid",
+          "Butanoic acid",
+          "Methanoic acid",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which compound has the IUPAC name ethyl ethanoate?",
+        options: ["CH₃COOCH₂CH₃", "CH₃CH₂COOH", "CH₃CH₂CH₂OH", "CH₃COCH₃"],
+        answer: 0,
+      },
+      {
+        question: "Which of these compounds contains a carboxamide group?",
+        options: ["CH₃CONH₂", "CH₃NH₂", "CH₃CH₂OH", "CH₃COOH"],
+        answer: 0,
+      },
+      {
+        question: "What is the functional group in propanone?",
+        options: ["Ketone", "Aldehyde", "Alcohol", "Carboxylic acid"],
+        answer: 0,
+      },
+      {
+        question: "Which is a structural isomer of butan-2-ol?",
+        options: [
+          "2-methylpropan-2-ol",
+          "Butan-1-ol",
+          "Butanoic acid",
+          "Pentanol",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which of these contains a primary carbon atom?",
+        options: ["CH₃CH₂CH₃", "CH₃C(CH₃)₃", "CH₃CH₂OH", "CH₃COCH₃"],
+        answer: 2,
+      },
+      {
+        question: "Which compound has the formula CH₃CH=CHCH₂OH?",
+        options: ["But-2-en-1-ol", "Butan-1-ol", "Butanal", "Butanoic acid"],
+        answer: 0,
+      },
+      {
+        question: "Which functional group is lowest in IUPAC priority?",
+        options: ["Alcohol", "Ester", "Carboxylic acid", "Amide"],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is not an organic acid derivative?",
+        options: ["Ester", "Amide", "Anhydride", "Ether"],
+        answer: 3,
+      },
     ],
   },
 
@@ -939,166 +1980,651 @@ const topics = {
         ],
         answer: 2,
       },
-      // Add 40 more...
-    ],
-    medium: [
       {
-        question:
-          "How many stereoisomers are possible for a molecule with 2 chiral centers?",
-        options: ["2", "3", "4", "5"],
+        question: "Which of these molecules is NOT chiral?",
+        options: ["CHBrClF", "2-butanol", "CH₄", "Lactic acid"],
         answer: 2,
       },
       {
-        question: "Which of these pairs are enantiomers?",
+        question: "A compound is chiral if it has:",
+        options: [
+          "Double bonds",
+          "Plane of symmetry",
+          "Four different groups on a carbon",
+          "Only carbon and hydrogen",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which of the following is true for geometrical isomers?",
+        options: [
+          "Different molecular formulas",
+          "Mirror images",
+          "Different position across double bond",
+          "Always chiral",
+        ],
+        answer: 2,
+      },
+      {
+        question: "What is an enantiomer?",
         options: [
           "Same structure",
-          "Non-superimposable mirror images",
-          "Superimposable mirror images",
-          "Same rotation",
+          "Superimposable image",
+          "Mirror image not superimposable",
+          "Opposite boiling point",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which of these is a conformational isomer?",
+        options: [
+          "Butane eclipsed and anti",
+          "cis-trans isomers",
+          "Chain isomers",
+          "Geometrical isomers",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Chiral molecules are also called:",
+        options: ["Superimposable", "Achiral", "Asymmetric", "Linear"],
+        answer: 2,
+      },
+      {
+        question: "Which structure cannot be chiral?",
+        options: [
+          "Carbon with 4 different groups",
+          "Tetrahedral carbon",
+          "Carbon with two same groups",
+          "All of the above",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which of the following is a feature of enantiomers?",
+        options: [
+          "Different melting points",
+          "Same density",
+          "Different molecular weights",
+          "Different number of atoms",
         ],
         answer: 1,
       },
       {
-        question: "Which notation is used for absolute configuration?",
-        options: ["E/Z", "R/S", "cis/trans", "A/B"],
+        question:
+          "Which of the following types of isomers are always non-superimposable?",
+        options: ["Geometrical", "Optical", "Conformational", "Chain"],
         answer: 1,
       },
       {
-        question: "What is the specific rotation of a racemic mixture?",
-        options: ["Positive", "Negative", "Zero", "Varies"],
+        question: "Which is required for geometrical isomerism?",
+        options: ["Free rotation", "Triple bond", "Double bond", "Ionic bond"],
         answer: 2,
       },
       {
-        question:
-          "A compound with two chiral centers that is superimposable is called:",
+        question: "Which of the following is NOT a stereoisomer?",
+        options: ["Enantiomer", "Diastereomer", "Conformer", "Chain isomer"],
+        answer: 3,
+      },
+      {
+        question: "Which structure shows a plane of symmetry?",
         options: [
-          "Enantiomer",
           "Meso compound",
-          "Diastereomer",
-          "Optical isomer",
+          "Enantiomer",
+          "Racemic mixture",
+          "Chiral compound",
+        ],
+        answer: 0,
+      },
+      {
+        question: "What makes a carbon chiral?",
+        options: [
+          "Four identical atoms",
+          "Three bonds",
+          "Four different groups",
+          "Double bond",
+        ],
+        answer: 2,
+      },
+      {
+        question: "What does racemic mean?",
+        options: [
+          "Only one isomer present",
+          "50/50 mixture of enantiomers",
+          "Only cis isomer present",
+          "No stereoisomers",
         ],
         answer: 1,
       },
       {
-        question: "Which pair are not mirror images?",
+        question: "Which of these rotates plane-polarized light?",
         options: [
-          "R and S forms",
+          "Chiral molecule",
+          "Achiral compound",
+          "Symmetrical molecule",
+          "All of these",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which is a feature of chiral molecules?",
+        options: [
+          "Superimposable",
+          "Symmetrical",
+          "Have enantiomers",
+          "No 3D structure",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which of the following is NOT optically active?",
+        options: [
+          "Single enantiomer",
+          "Meso compound",
+          "Chiral compound",
+          "Lactic acid",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which of these is a geometric isomerism condition?",
+        options: [
+          "Triple bond",
+          "Free rotation",
+          "Restricted rotation",
+          "Chiral carbon",
+        ],
+        answer: 2,
+      },
+      {
+        question: "What type of isomerism occurs in alkenes?",
+        options: ["Optical", "Geometrical", "Chain", "Positional"],
+        answer: 1,
+      },
+      {
+        question: "Which term relates to mirror-image isomers?",
+        options: [
+          "Chain isomers",
+          "Functional isomers",
           "Enantiomers",
-          "Diastereomers",
-          "Optical isomers",
-        ],
-        answer: 2,
-      },
-      {
-        question: "The E/Z system applies to:",
-        options: [
-          "Chiral centers",
-          "Cyclic compounds",
-          "Double bonds",
-          "Triple bonds",
+          "Geometrical isomers",
         ],
         answer: 2,
       },
       {
         question:
-          "How many enantiomers does a molecule with one chiral center have?",
-        options: ["1", "2", "3", "4"],
+          "A molecule with one chiral center can have how many enantiomers?",
+        options: ["None", "1", "2", "4"],
+        answer: 2,
+      },
+      {
+        question: "Geometrical isomerism occurs due to:",
+        options: [
+          "Free rotation",
+          "Rotation restriction",
+          "Ionic bond",
+          "Aromatic ring",
+        ],
         answer: 1,
       },
       {
         question:
-          "Which group has highest priority in Cahn–Ingold–Prelog rules?",
-        options: ["H", "Br", "Cl", "OH"],
-        answer: 1,
-      },
-      {
-        question:
-          "The configuration with higher priority groups on opposite sides is called:",
-        options: ["cis", "trans", "E", "Z"],
-        answer: 2,
-      },
-      // Add 40 more...
-    ],
-    hard: [
-      {
-        question:
-          "What is the formula to calculate max stereoisomers (no symmetry)?",
-        options: ["2n", "n²", "n!", "2ⁿ"],
-        answer: 3,
-      },
-      {
-        question: "Which of the following is true for diastereomers?",
+          "Which of the following molecules has an internal plane of symmetry?",
         options: [
-          "Mirror images",
-          "Same physical properties",
-          "Different optical rotation",
-          "Not mirror images",
+          "Meso compound",
+          "Chiral alcohol",
+          "Enantiomer",
+          "Diastereomer",
         ],
-        answer: 3,
-      },
-      {
-        question: "Which property do enantiomers not share?",
-        options: [
-          "Boiling point",
-          "Density",
-          "Specific rotation",
-          "Molecular weight",
-        ],
-        answer: 2,
-      },
-      {
-        question: "Assign R/S: CH₃CH(Cl)CH₂CH₃",
-        options: ["R", "S", "Can't determine", "Chiral"],
         answer: 0,
       },
       {
         question:
-          "A compound with 3 chiral centers (no symmetry) has how many stereoisomers?",
-        options: ["4", "6", "8", "10"],
+          "What is the minimum number of chiral centers needed for stereoisomerism?",
+        options: ["0", "1", "2", "3"],
+        answer: 1,
+      },
+      {
+        question: "Which is the best example of a chiral molecule?",
+        options: ["CO₂", "CH₄", "CHBrClF", "CH₃CH₃"],
         answer: 2,
       },
       {
-        question: "Plane-polarized light is rotated by:",
+        question: "Which compound has no stereoisomers?",
+        options: ["CHBrClF", "But-2-ene", "CH₃CH₃", "2-butanol"],
+        answer: 2,
+      },
+      {
+        question: "Which stereoisomerism is found in 2-butene?",
+        options: ["Optical", "Chain", "Geometrical", "Functional"],
+        answer: 2,
+      },
+      {
+        question: "Which compound rotates plane-polarized light?",
         options: [
-          "Achiral compounds",
-          "Only enantiomers",
-          "All organic molecules",
-          "Ionic compounds",
+          "Meso compound",
+          "Chiral compound",
+          "Achiral compound",
+          "Alkene",
         ],
         answer: 1,
       },
       {
-        question: "Which conformer of butane is most stable?",
-        options: ["Eclipsed", "Gauche", "Anti", "Skew"],
-        answer: 2,
-      },
-      {
-        question: "Which pair is optically inactive?",
-        options: [
-          "R and S",
-          "Racemic mixture",
-          "Single enantiomer",
-          "Diastereomers",
-        ],
+        question:
+          "The mirror image of a molecule is not superimposable. The molecule is:",
+        options: ["Achiral", "Chiral", "Aliphatic", "Conformer"],
         answer: 1,
       },
       {
-        question: "The relationship between R,R and R,S configurations is:",
+        question: "Which is an example of a meso compound?",
         options: [
-          "Same compound",
-          "Enantiomers",
-          "Diastereomers",
-          "Conformers",
+          "CHBrClF",
+          "cis-1,2-dichlorocyclopropane",
+          "Lactic acid",
+          "Glucose",
         ],
-        answer: 2,
-      },
-      {
-        question: "How many stereoisomers exist for tartaric acid?",
-        options: ["2", "3", "4", "5"],
         answer: 1,
       },
-      // Add 40 more...
     ],
+   medium: [
+  {
+    question: "How many stereoisomers are possible for a molecule with 2 chiral centers?",
+    options: ["2", "3", "4", "5"],
+    answer: 2,
+  },
+  {
+    question: "Which of these pairs are enantiomers?",
+    options: ["Same structure", "Non-superimposable mirror images", "Superimposable mirror images", "Same rotation"],
+    answer: 1,
+  },
+  {
+    question: "Which notation is used for absolute configuration?",
+    options: ["E/Z", "R/S", "cis/trans", "A/B"],
+    answer: 1,
+  },
+  {
+    question: "What is the specific rotation of a racemic mixture?",
+    options: ["Positive", "Negative", "Zero", "Varies"],
+    answer: 2,
+  },
+  {
+    question: "A compound with two chiral centers that is superimposable is called:",
+    options: ["Enantiomer", "Meso compound", "Diastereomer", "Optical isomer"],
+    answer: 1,
+  },
+  {
+    question: "Which pair are not mirror images?",
+    options: ["R and S forms", "Enantiomers", "Diastereomers", "Optical isomers"],
+    answer: 2,
+  },
+  {
+    question: "The E/Z system applies to:",
+    options: ["Chiral centers", "Cyclic compounds", "Double bonds", "Triple bonds"],
+    answer: 2,
+  },
+  {
+    question: "How many enantiomers does a molecule with one chiral center have?",
+    options: ["1", "2", "3", "4"],
+    answer: 1,
+  },
+  {
+    question: "Which group has highest priority in Cahn–Ingold–Prelog rules?",
+    options: ["H", "Br", "Cl", "OH"],
+    answer: 1,
+  },
+  {
+    question: "The configuration with higher priority groups on opposite sides is called:",
+    options: ["cis", "trans", "E", "Z"],
+    answer: 2,
+  },
+  {
+    question: "How many optical isomers are possible with 3 chiral centers?",
+    options: ["4", "6", "8", "10"],
+    answer: 2,
+  },
+  {
+    question: "Which of these compounds has a meso form?",
+    options: ["2,3-dibromobutane", "2-chlorobutane", "2-butanol", "1,2-dibromoethane"],
+    answer: 0,
+  },
+  {
+    question: "Which of the following shows optical activity?",
+    options: ["Meso compound", "Achiral molecule", "Enantiomer", "Symmetrical compound"],
+    answer: 2,
+  },
+  {
+    question: "Which stereoisomers are not mirror images?",
+    options: ["Enantiomers", "Diastereomers", "Racemic mixtures", "Conformers"],
+    answer: 1,
+  },
+  {
+    question: "What causes optical activity in molecules?",
+    options: ["Symmetry", "Polarity", "Chirality", "Ionic bonds"],
+    answer: 2,
+  },
+  {
+    question: "Which of the following has E/Z isomerism?",
+    options: ["Ethene", "2-butene", "Methane", "Cyclohexane"],
+    answer: 1,
+  },
+  {
+    question: "Which isomer is more stable in alkenes?",
+    options: ["cis", "trans", "E", "Z"],
+    answer: 1,
+  },
+  {
+    question: "What type of isomerism is shown by 1,2-dichloroethene?",
+    options: ["Optical", "Geometrical", "Conformational", "Chain"],
+    answer: 1,
+  },
+  {
+    question: "Which is true for diastereomers?",
+    options: ["Have identical melting points", "Non-superimposable mirror images", "Not mirror images", "Same optical rotation"],
+    answer: 2,
+  },
+  {
+    question: "How many stereoisomers exist for a compound with 2 chiral centers and no symmetry?",
+    options: ["2", "3", "4", "5"],
+    answer: 2,
+  },
+  {
+    question: "Which type of stereoisomerism is shown by glucose and galactose?",
+    options: ["Enantiomerism", "Diastereomerism", "Chain isomerism", "Conformational isomerism"],
+    answer: 1,
+  },
+  {
+    question: "What kind of isomers are R,R and S,R configurations?",
+    options: ["Enantiomers", "Diastereomers", "Identical", "Meso forms"],
+    answer: 1,
+  },
+  {
+    question: "Which type of compound does not show stereoisomerism?",
+    options: ["Alkene", "Alkyne", "Cycloalkane", "Chiral alcohol"],
+    answer: 1,
+  },
+  {
+    question: "Which feature is unique to optical isomers?",
+    options: ["Double bonds", "Rotating plane-polarized light", "Hydrogen bonding", "High melting point"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following is optically inactive?",
+    options: ["Chiral compound", "Racemic mixture", "Enantiomer", "Asymmetric carbon compound"],
+    answer: 1,
+  },
+  {
+    question: "The ability to rotate light is called:",
+    options: ["Polarization", "Optical activity", "Isomerism", "Electronegativity"],
+    answer: 1,
+  },
+  {
+    question: "What causes restricted rotation in E/Z isomers?",
+    options: ["Single bonds", "Ionic bonds", "Pi bonds in double bonds", "Hydrogen bonding"],
+    answer: 2,
+  },
+  {
+    question: "Which molecule shows both E/Z and optical isomerism?",
+    options: ["But-2-ene", "2-chlorobutane", "2,3-dihydroxybutanoic acid", "Pentane"],
+    answer: 2,
+  },
+  {
+    question: "Which compound is optically inactive despite chiral centers?",
+    options: ["Enantiomer", "Meso compound", "Racemic mixture", "Diastereomer"],
+    answer: 1,
+  },
+  {
+    question: "Which is not a requirement for chirality?",
+    options: ["4 different groups", "Asymmetry", "Plane of symmetry", "Sp³ hybrid carbon"],
+    answer: 2,
+  },
+  {
+    question: "Which carbon hybridization is common in chiral centers?",
+    options: ["sp", "sp²", "sp³", "sp³d"],
+    answer: 2,
+  },
+  {
+    question: "Which molecule has a stereogenic center?",
+    options: ["CH₄", "CH₃CH₂OH", "CH₃CH(OH)COOH", "CH₂=CH₂"],
+    answer: 2,
+  },
+  {
+    question: "Which molecule cannot be chiral?",
+    options: ["CH₃CH₂Cl", "CHBrClF", "Lactic acid", "2-butanol"],
+    answer: 0,
+  },
+  {
+    question: "Which molecules show enantiomerism?",
+    options: ["Alkenes", "Symmetrical alkanes", "Chiral alcohols", "Ionic salts"],
+    answer: 2,
+  },
+  {
+    question: "What type of isomerism exists in 2-chlorobutane?",
+    options: ["Geometrical", "Optical", "Chain", "Positional"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following cannot be optically active?",
+    options: ["Enantiomer", "Meso compound", "Chiral amine", "Lactic acid"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following has no chiral center?",
+    options: ["CHBrClF", "CCl₄", "CH₃CH(NH₂)COOH", "Lactic acid"],
+    answer: 1,
+  },
+  {
+    question: "Why is a racemic mixture optically inactive?",
+    options: ["Contains impurities", "Opposing rotations cancel", "No chiral centers", "Poor resolution"],
+    answer: 1,
+  },
+  {
+    question: "Which of these cannot exhibit E/Z isomerism?",
+    options: ["But-2-ene", "1-butene", "Cyclohexene", "Pent-2-ene"],
+    answer: 1,
+  }
+],
+    hard: [
+  {
+    question: "What is the formula to calculate max stereoisomers (no symmetry)?",
+    options: ["2n", "n²", "n!", "2ⁿ"],
+    answer: 3,
+  },
+  {
+    question: "Which of the following is true for diastereomers?",
+    options: ["Mirror images", "Same physical properties", "Different optical rotation", "Not mirror images"],
+    answer: 3,
+  },
+  {
+    question: "Which property do enantiomers not share?",
+    options: ["Boiling point", "Density", "Specific rotation", "Molecular weight"],
+    answer: 2,
+  },
+  {
+    question: "Assign R/S: CH₃CH(Cl)CH₂CH₃",
+    options: ["R", "S", "Can't determine", "Chiral"],
+    answer: 0,
+  },
+  {
+    question: "A compound with 3 chiral centers (no symmetry) has how many stereoisomers?",
+    options: ["4", "6", "8", "10"],
+    answer: 2,
+  },
+  {
+    question: "Plane-polarized light is rotated by:",
+    options: ["Achiral compounds", "Only enantiomers", "All organic molecules", "Ionic compounds"],
+    answer: 1,
+  },
+  {
+    question: "Which conformer of butane is most stable?",
+    options: ["Eclipsed", "Gauche", "Anti", "Skew"],
+    answer: 2,
+  },
+  {
+    question: "Which pair is optically inactive?",
+    options: ["R and S", "Racemic mixture", "Single enantiomer", "Diastereomers"],
+    answer: 1,
+  },
+  {
+    question: "The relationship between R,R and R,S configurations is:",
+    options: ["Same compound", "Enantiomers", "Diastereomers", "Conformers"],
+    answer: 2,
+  },
+  {
+    question: "How many stereoisomers exist for tartaric acid?",
+    options: ["2", "3", "4", "5"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following has a plane of symmetry?",
+    options: ["Chiral center", "Meso compound", "Diastereomer", "Racemic mixture"],
+    answer: 1,
+  },
+  {
+    question: "How many chiral centers are in glucose?",
+    options: ["2", "4", "5", "6"],
+    answer: 2,
+  },
+  {
+    question: "Which type of isomerism is shown by 2,3-dihydroxybutanoic acid?",
+    options: ["Geometrical", "Optical", "Chain", "Positional"],
+    answer: 1,
+  },
+  {
+    question: "Which conformation of ethane has highest energy?",
+    options: ["Anti", "Eclipsed", "Staggered", "Gauche"],
+    answer: 1,
+  },
+  {
+    question: "A molecule has 4 chiral centers but only 6 stereoisomers. Why?",
+    options: ["It’s linear", "Meso forms reduce total", "It’s achiral", "It contains double bonds"],
+    answer: 1,
+  },
+  {
+    question: "Which group has lowest priority in R/S configuration?",
+    options: ["Br", "OH", "H", "CH₃"],
+    answer: 2,
+  },
+  {
+    question: "What is the hybridization of a carbon in a chiral center?",
+    options: ["sp", "sp²", "sp³", "sp³d"],
+    answer: 2,
+  },
+  {
+    question: "How many stereoisomers does 2,3-dichlorobutane have?",
+    options: ["2", "3", "4", "5"],
+    answer: 2,
+  },
+  {
+    question: "Which stereoisomer of tartaric acid is optically inactive?",
+    options: ["(+)", "(-)", "meso", "racemic"],
+    answer: 2,
+  },
+  {
+    question: "Racemic mixtures are often separated by:",
+    options: ["Filtration", "Crystallization", "Chiral chromatography", "Distillation"],
+    answer: 2,
+  },
+  {
+    question: "Which stereoisomer does not rotate plane-polarized light?",
+    options: ["(+)", "(-)", "meso", "R"],
+    answer: 2,
+  },
+  {
+    question: "Which compound would not exhibit optical activity?",
+    options: ["CH₃CH(OH)CH₃", "CH₃CH(NH₂)COOH", "CHBrClF", "Lactic acid"],
+    answer: 0,
+  },
+  {
+    question: "What is the difference between enantiomers and diastereomers?",
+    options: ["Same structure", "Different physical properties", "Mirror images vs not", "No difference"],
+    answer: 2,
+  },
+  {
+    question: "Which of the following is a meso compound?",
+    options: ["2-butanol", "2,3-dibromobutane", "2-chlorobutane", "Glucose"],
+    answer: 1,
+  },
+  {
+    question: "Which system classifies geometrical isomers?",
+    options: ["R/S", "Z/E", "N/O", "A/B"],
+    answer: 1,
+  },
+  {
+    question: "What is the chirality of 2-butanol?",
+    options: ["Achiral", "Chiral", "Meso", "Racemic"],
+    answer: 1,
+  },
+  {
+    question: "Which is true about diastereomers?",
+    options: ["Same rotation", "Same melting point", "Not mirror images", "Same solubility"],
+    answer: 2,
+  },
+  {
+    question: "Which interaction is key for NMR chiral discrimination?",
+    options: ["Chemical shift", "Coupling", "Chiral solvent interaction", "Shielding"],
+    answer: 2,
+  },
+  {
+    question: "Which type of isomerism is shown in conformers?",
+    options: ["Optical", "Geometrical", "Configurational", "Conformational"],
+    answer: 3,
+  },
+  {
+    question: "The R/S configuration refers to:",
+    options: ["Geometric isomers", "Absolute configuration", "Bond angles", "Functional groups"],
+    answer: 1,
+  },
+  {
+    question: "Which configuration is most stable for substituted cyclohexane?",
+    options: ["Axial", "Equatorial", "Planar", "Boat"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following molecules has stereocenters but is achiral?",
+    options: ["Meso compound", "Racemic mixture", "Chiral compound", "Cis-isomer"],
+    answer: 0,
+  },
+  {
+    question: "Which reaction does not affect stereochemistry?",
+    options: ["SN1", "SN2", "E2", "Free radical substitution"],
+    answer: 3,
+  },
+  {
+    question: "Which factor affects optical rotation?",
+    options: ["Concentration", "Path length", "Temperature", "All of these"],
+    answer: 3,
+  },
+  {
+    question: "Which carbon arrangement makes a molecule achiral?",
+    options: ["Tetrahedral with 4 different groups", "Plane of symmetry", "No symmetry", "Single bond"],
+    answer: 1,
+  },
+  {
+    question: "How can enantiomers be differentiated experimentally?",
+    options: ["Boiling point", "NMR", "Optical rotation", "Mass"],
+    answer: 2,
+  },
+  {
+    question: "Which compound cannot have stereoisomers?",
+    options: ["Cyclohexane", "Butane", "CH₄", "CHBrClF"],
+    answer: 2,
+  },
+  {
+    question: "Which compound shows only conformational isomerism?",
+    options: ["Ethane", "2-butanol", "Lactic acid", "CHBrClF"],
+    answer: 0,
+  },
+  {
+    question: "Assign R/S: CH₃CH(OH)CH₂CH₃ (R or S?)",
+    options: ["R", "S", "Chiral only", "Cannot determine"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is true about conformers?",
+    options: ["They are mirror images", "They differ by rotation", "They are positional isomers", "They are meso forms"],
+    answer: 1,
+  }
+],
   },
 
   chemistry_of_alkanes_alkenes_alkynes_alkanol_carboxylic_acid_ketones_amines_ethals:
@@ -1684,6 +3210,7 @@ let currentIndex = 0;
 let score = 0;
 let timerInterval;
 let seconds = 0;
+let maxTime = 0;
 let reviewAnswers = [];
 
 const questionText = document.getElementById("question");
@@ -1694,26 +3221,46 @@ const resultPage = document.getElementById("result-page");
 const resultText = document.getElementById("result");
 const quizPage = document.getElementById("quiz-page");
 const startPage = document.getElementById("start-page");
+const landingPage = document.getElementById("landing-page");
 const scoreTracker = document.getElementById("score-tracker");
 const timer = document.getElementById("timer");
 const progressBar = document.getElementById("progress-bar");
 const categoryTag = document.getElementById("category-tag");
 const reviewSection = document.getElementById("review-section");
+const questionCountSection = document.getElementById("question-count-section");
+const questionCountSelect = document.getElementById("question-count");
+
+// 🔊 Sound effects
+const soundCorrect = document.getElementById("sound-correct");
+const soundWrong = document.getElementById("sound-wrong");
+const soundFinish = document.getElementById("sound-finish");
 
 function populateTopics() {
   const topicSelect = document.getElementById("topic");
   const difficultySelect = document.getElementById("difficulty");
   for (let topic in topics) {
-    const opt = document.createElement("option");
-    opt.value = topic;
-    opt.textContent = topic.replace(/_/g, " ").toUpperCase();
-    topicSelect.appendChild(opt);
+    if (topic !== "random_quiz") {
+      const opt = document.createElement("option");
+      opt.value = topic;
+      opt.textContent = topic.replace(/_/g, " ").toUpperCase();
+      topicSelect.appendChild(opt);
+    }
   }
   ["easy", "medium", "hard"].forEach((d) => {
     const opt = document.createElement("option");
     opt.value = d;
     opt.textContent = d.toUpperCase();
     difficultySelect.appendChild(opt);
+  });
+
+  topicSelect.addEventListener("change", () => {
+    if (topicSelect.value === "random_quiz") {
+      difficultySelect.style.display = "none";
+      questionCountSection.style.display = "block";
+    } else {
+      difficultySelect.style.display = "block";
+      questionCountSection.style.display = "none";
+    }
   });
 }
 
@@ -1750,7 +3297,12 @@ function selectOption(el, i) {
     if (idx === i && idx !== q.answer) li.classList.add("wrong");
   });
   reviewAnswers[currentIndex] = { ...q, selected: i };
-  if (i === q.answer) score++;
+  if (i === q.answer) {
+    score++;
+    soundCorrect.play();
+  } else {
+    soundWrong.play();
+  }
   scoreTracker.textContent = `Score: ${score}`;
   nextBtn.disabled = false;
 }
@@ -1771,12 +3323,18 @@ function prevQuestion() {
   }
 }
 
-function startTimer() {
+function startTimer(duration) {
+  maxTime = duration;
   timerInterval = setInterval(() => {
     seconds++;
-    const mins = String(Math.floor(seconds / 60)).padStart(2, "0");
-    const secs = String(seconds % 60).padStart(2, "0");
+    const mins = String(Math.floor((duration - seconds) / 60)).padStart(2, "0");
+    const secs = String((duration - seconds) % 60).padStart(2, "0");
     timer.textContent = `Time: ${mins}:${secs}`;
+    if (seconds >= duration) {
+      clearInterval(timerInterval);
+      alert("Time is up!");
+      endQuiz();
+    }
   }, 1000);
 }
 
@@ -1790,6 +3348,7 @@ function endQuiz() {
   quizPage.style.display = "none";
   resultPage.style.display = "block";
   resultText.textContent = `You scored ${score} out of ${currentQuestions.length}`;
+  soundFinish.play();
   generateChart();
   generateReview();
 }
@@ -1827,11 +3386,29 @@ function generateReview() {
 function startQuiz() {
   const topic = document.getElementById("topic").value;
   const difficulty = document.getElementById("difficulty").value;
-  if (!topic || !difficulty) return alert("Select topic and difficulty");
+  const count = parseInt(document.getElementById("question-count").value);
+
+  if (!topic) return alert("Select a topic");
+
+  if (topic === "random_quiz") {
+    const allQuestions = [];
+    for (let key in topics) {
+      ["easy", "medium", "hard"].forEach((diff) => {
+        if (topics[key][diff]) allQuestions.push(...topics[key][diff]);
+      });
+    }
+    currentQuestions = allQuestions
+      .sort(() => 0.5 - Math.random())
+      .slice(0, count);
+    maxTime = count * 60;
+  } else {
+    if (!difficulty) return alert("Select difficulty");
+    currentQuestions = topics[topic][difficulty];
+    maxTime = currentQuestions.length * 60;
+  }
 
   currentTopic = topic;
   currentDifficulty = difficulty;
-  currentQuestions = topics[topic][difficulty];
   currentIndex = 0;
   score = 0;
   seconds = 0;
@@ -1842,10 +3419,16 @@ function startQuiz() {
   resultPage.style.display = "none";
   scoreTracker.textContent = "Score: 0";
   loadQuestion(currentIndex);
-  startTimer();
+  startTimer(maxTime);
 }
 
-// Theme toggle
+// 🎬 Landing intro start button
+const enterBtn = document.getElementById("enter-btn");
+enterBtn.onclick = () => {
+  landingPage.style.display = "none";
+  startPage.style.display = "block";
+};
+
 const themeToggle = document.getElementById("theme-toggle");
 themeToggle.addEventListener("change", () => {
   document.body.classList.toggle("dark");

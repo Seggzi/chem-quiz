@@ -13,17 +13,36 @@
     </label>
   </div>
 
-  <div id="start-page" class="container">
+  <div id="landing-page" class="container">
+    <h1 class="landing-title">🧪 Welcome to Chemistry Quiz</h1>
+    <p class="landing-sub">Master chemistry through fun quizzes and challenges!</p>
+    <button id="enter-btn" class="btn">Start</button>
+  </div>
+
+  <div id="start-page" class="container" style="display:none">
     <h1>Chemistry Quiz</h1>
     <div class="selectors">
       <label for="topic">Choose Topic:</label>
       <select id="topic">
         <option value="">--Select--</option>
+        <option value="random_quiz">Random Quiz</option>
       </select>
+
       <label for="difficulty">Choose Difficulty:</label>
       <select id="difficulty">
         <option value="">--Select--</option>
       </select>
+
+      <div id="question-count-section" style="display: none;">
+        <label for="question-count">Number of Questions:</label>
+        <select id="question-count">
+          <option value="10">10</option>
+          <option value="20">20</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+        </select>
+      </div>
+
       <button id="start-btn" class="btn">Start Quiz</button>
     </div>
   </div>
@@ -54,6 +73,10 @@
     <div id="review-section"></div>
     <button onclick="window.location.reload()" class="btn">Restart</button>
   </div>
+
+  <audio id="sound-correct" src="sounds/correct.mp3"></audio>
+  <audio id="sound-wrong" src="sounds/wrong.mp3"></audio>
+  <audio id="sound-finish" src="sounds/finish.mp3"></audio>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="script.js"></script>
