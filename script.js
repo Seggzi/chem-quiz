@@ -5226,7 +5226,7 @@ function startTimer(duration) {
       alert("Time is up!");
       endQuiz();
     }
-  }, 1000);
+  }, 500);
 }
 
 function updateProgressBar() {
