@@ -5218,15 +5218,15 @@ function startTimer(duration) {
   maxTime = duration;
   timerInterval = setInterval(() => {
     seconds++;
-    const mins = String(Math.floor((duration - seconds) / 60)).padStart(2, "0");
-    const secs = String((duration - seconds) % 60).padStart(2, "0");
+    const mins = String(Math.floor((duration - seconds) / 30)).padStart(2, "0");
+    const secs = String((duration - seconds) % 30).padStart(2, "0");
     timer.textContent = `Time: ${mins}:${secs}`;
     if (seconds >= duration) {
       clearInterval(timerInterval);
       alert("Time is up!");
       endQuiz();
     }
-  }, 1000);
+  }, 900);
 }
 
 function updateProgressBar() {
