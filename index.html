@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chemistry Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="theme-toggle">
+    <label>
+      <input type="checkbox" id="theme-toggle" /> Dark Mode
+    </label>
+  </div>
+
+  <div id="start-page" class="container">
+    <h1>Chemistry Quiz</h1>
+    <div class="selectors">
+      <label for="topic">Choose Topic:</label>
+      <select id="topic">
+        <option value="">--Select--</option>
+      </select>
+      <label for="difficulty">Choose Difficulty:</label>
+      <select id="difficulty">
+        <option value="">--Select--</option>
+      </select>
+      <button id="start-btn" class="btn">Start Quiz</button>
+    </div>
+  </div>
+
+  <div id="quiz-page" class="container" style="display:none">
+    <div id="score-timer">
+      <div id="score-tracker">Score: 0</div>
+      <div id="timer">Time: 00:00</div>
+    </div>
+    <div id="progress-bar-container">
+      <div id="progress-bar"></div>
+    </div>
+    <div id="question-box">
+      <div id="category-tag"></div>
+      <div id="question"></div>
+      <ul id="options"></ul>
+    </div>
+    <div class="controls">
+      <button id="prev" class="btn">Previous</button>
+      <button id="next" class="btn" disabled>Next</button>
+    </div>
+  </div>
+
+  <div id="result-page" class="container" style="display:none">
+    <h2>Your Result</h2>
+    <p id="result"></p>
+    <canvas id="result-chart" width="300" height="200"></canvas>
+    <div id="review-section"></div>
+    <button onclick="window.location.reload()" class="btn">Restart</button>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
