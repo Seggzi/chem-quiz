@@ -5226,7 +5226,7 @@ function startTimer(duration) {
       alert("Time is up!");
       endQuiz();
     }
-  }, 500);
+  }, 1000);
 }
 
 function updateProgressBar() {
@@ -5291,11 +5291,11 @@ function startQuiz() {
     currentQuestions = allQuestions
       .sort(() => 0.5 - Math.random())
       .slice(0, count);
-    maxTime = count * 60;
+    maxTime = count * 30;
   } else {
     if (!difficulty) return alert("Select difficulty");
     currentQuestions = topics[topic][difficulty];
-    maxTime = currentQuestions.length * 60;
+    maxTime = currentQuestions.length * 30;
   }
 
   currentTopic = topic;
