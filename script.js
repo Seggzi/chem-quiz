@@ -2685,7 +2685,207 @@ const topics = {
           options: ["Alkane", "Alkyne", "Alcohol", "Ketone"],
           answer: 2,
         },
-        // Add 40 more...
+        {
+  question: "Which of the following is an alkyne?",
+  options: ["CH₄", "CH₂=CH₂", "CH≡CH", "CH₃CH₃"],
+  answer: 2
+},
+{
+  question: "Which hydrocarbon is unsaturated?",
+  options: ["Ethane", "Butane", "Pentane", "Ethene"],
+  answer: 3
+},
+{
+  question: "Which functional group is present in carboxylic acids?",
+  options: ["-OH", "-COOH", "-NH₂", "-CHO"],
+  answer: 1
+},
+{
+  question: "Which compound is a ketone?",
+  options: ["CH₃CHO", "CH₃COCH₃", "CH₃OH", "CH₃CH₂OH"],
+  answer: 1
+},
+{
+  question: "What is the molecular formula of methane?",
+  options: ["CH₄", "C₂H₆", "C₂H₂", "CH₃OH"],
+  answer: 0
+},
+{
+  question: "Which compound contains a carboxyl group?",
+  options: ["Methane", "Ethanoic acid", "Ethene", "Ethanol"],
+  answer: 1
+},
+{
+  question: "Which compound gives a fruity smell?",
+  options: ["Ketone", "Alcohol", "Ester", "Amine"],
+  answer: 2
+},
+{
+  question: "What is the first member of the alkyne series?",
+  options: ["Ethene", "Ethyne", "Propene", "Methyne"],
+  answer: 1
+},
+{
+  question: "Which hydrocarbon has the formula C₂H₂?",
+  options: ["Ethene", "Ethyne", "Ethane", "Methane"],
+  answer: 1
+},
+{
+  question: "Which functional group is present in ethanol?",
+  options: ["Aldehyde", "Alcohol", "Ketone", "Amine"],
+  answer: 1
+},
+{
+  question: "What is the simplest alkyne?",
+  options: ["Methane", "Ethyne", "Ethane", "Propane"],
+  answer: 1
+},
+{
+  question: "Which of these is a functional group in alcohols?",
+  options: ["-COOH", "-OH", "-CHO", "-NH₂"],
+  answer: 1
+},
+{
+  question: "What is the IUPAC name for CH₃CH₂CH₂OH?",
+  options: ["Methanol", "Ethanol", "Propanol", "Butanol"],
+  answer: 2
+},
+{
+  question: "Which of the following is a primary alcohol?",
+  options: ["CH₃CH₂OH", "CH₃OH", "CH₃CH(OH)CH₃", "CH₃CH₂CH₂OH"],
+  answer: 0
+},
+{
+  question: "What is the formula for ethyne?",
+  options: ["C₂H₆", "C₂H₄", "C₂H₂", "CH₄"],
+  answer: 2
+},
+{
+  question: "Which compound is used in alcoholic beverages?",
+  options: ["Methanol", "Ethanol", "Propanol", "Butanol"],
+  answer: 1
+},
+{
+  question: "What is the color of bromine water?",
+  options: ["Colorless", "Brown", "Blue", "Green"],
+  answer: 1
+},
+{
+  question: "Alkenes react with bromine water to form:",
+  options: ["Alcohols", "Colorless compounds", "Brown gas", "Esters"],
+  answer: 1
+},
+{
+  question: "Which of the following is not an alcohol?",
+  options: ["CH₃OH", "CH₃CH₂OH", "CH₃COOH", "CH₃CH₂CH₂OH"],
+  answer: 2
+},
+{
+  question: "Which hydrocarbon series is homologous to alkanes?",
+  options: ["Alkenes", "Alkynes", "Cycloalkanes", "Aromatics"],
+  answer: 2
+},
+{
+  question: "Which group gives acidic properties to ethanoic acid?",
+  options: ["-OH", "-CHO", "-COOH", "-COOCH₃"],
+  answer: 2
+},
+{
+  question: "What is the main use of ethanoic acid?",
+  options: ["Cooking", "Preservative", "Fuel", "Fertilizer"],
+  answer: 1
+},
+{
+  question: "Which of the following is a carboxylic acid?",
+  options: ["CH₃OH", "CH₃COOH", "CH₃CH₂CH₃", "CH₄"],
+  answer: 1
+},
+{
+  question: "Which compound gives a vinegar smell?",
+  options: ["Ethanol", "Methanol", "Acetic acid", "Propane"],
+  answer: 2
+},
+{
+  question: "What is the general formula for alkenes?",
+  options: ["CnH2n", "CnH2n+2", "CnH2n–2", "CnH2nO"],
+  answer: 0
+},
+{
+  question: "What is the first member of the alkene series?",
+  options: ["Ethene", "Propene", "Methene", "Butene"],
+  answer: 0
+},
+{
+  question: "Which of these is an alkene?",
+  options: ["CH₄", "CH₂=CH₂", "CH≡CH", "CH₃CH₃"],
+  answer: 1
+},
+{
+  question: "Which of the following has the highest boiling point?",
+  options: ["Methane", "Methanol", "Ethyne", "Ethene"],
+  answer: 1
+},
+{
+  question: "Which class of compounds reacts with bromine water without catalyst?",
+  options: ["Alkenes", "Alkanes", "Alcohols", "Acids"],
+  answer: 0
+},
+{
+  question: "Which compound is most reactive in combustion?",
+  options: ["Alkane", "Alkene", "Alkyne", "All burn similarly"],
+  answer: 3
+},
+{
+  question: "What is the result of combustion of alkanes?",
+  options: ["CO and water", "CO₂ and water", "Hydrogen and water", "O₂ and water"],
+  answer: 1
+},
+{
+  question: "Which of the following is a secondary alcohol?",
+  options: ["Propan-2-ol", "Methanol", "Ethanol", "Butan-1-ol"],
+  answer: 0
+},
+{
+  question: "The suffix '-yne' refers to:",
+  options: ["Alkene", "Alkyne", "Alcohol", "Alkane"],
+  answer: 1
+},
+{
+  question: "Which of the following is a base?",
+  options: ["CH₃COOH", "CH₄", "CH₃NH₂", "CH₃OH"],
+  answer: 2
+},
+{
+  question: "What kind of bond is found in alkynes?",
+  options: ["Single", "Double", "Triple", "No bond"],
+  answer: 2
+},
+{
+  question: "Which compound has a strong acidic hydrogen?",
+  options: ["Methane", "Ethyne", "Ethane", "Butane"],
+  answer: 1
+},
+{
+  question: "Which of these is not a hydrocarbon?",
+  options: ["Ethane", "Methanol", "Propane", "Ethyne"],
+  answer: 1
+},
+{
+  question: "Which of the following is commonly used as an antiseptic?",
+  options: ["Formaldehyde", "Ethanol", "Acetic acid", "Glycerol"],
+  answer: 1
+},
+{
+  question: "What is the IUPAC name for vinegar acid?",
+  options: ["Methanoic acid", "Ethanoic acid", "Propanoic acid", "Butanoic acid"],
+  answer: 1
+},
+{
+  question: "What is the functional group of an aldehyde?",
+  options: ["-CHO", "-OH", "-NH₂", "-COOH"],
+  answer: 0
+}
+
       ],
       medium: [
         {
@@ -2758,7 +2958,251 @@ const topics = {
           ],
           answer: 1,
         },
-        // Add 40 more...
+        {
+  question: "Which compound gives a positive iodoform test?",
+  options: ["Propanone", "Butanal", "Methanol", "Ethanol"],
+  answer: 0
+},
+{
+  question: "What is the major product of oxidation of secondary alcohol?",
+  options: ["Aldehyde", "Ketone", "Acid", "Ether"],
+  answer: 1
+},
+{
+  question: "What is formed when ethene reacts with bromine water?",
+  options: ["Ethanol", "Dibromoethane", "Ethane", "No reaction"],
+  answer: 1
+},
+{
+  question: "Which reagent is used for oxidation of alcohols?",
+  options: ["NaCl", "H₂SO₄", "K₂Cr₂O₇", "NaOH"],
+  answer: 2
+},
+{
+  question: "Which acid has the common name 'formic acid'?",
+  options: ["Methanoic acid", "Ethanoic acid", "Propanoic acid", "Butanoic acid"],
+  answer: 0
+},
+{
+  question: "What is the product of hydrolysis of ester?",
+  options: ["Alcohol and alkane", "Alcohol and acid", "Alcohol and ether", "Aldehyde and acid"],
+  answer: 1
+},
+{
+  question: "What is the hybridization of carbon in alkenes?",
+  options: ["sp", "sp2", "sp3", "sp3d"],
+  answer: 1
+},
+{
+  question: "Which of the following is not a property of carboxylic acids?",
+  options: ["Sour taste", "High boiling point", "Good reducing agent", "Forms hydrogen bonds"],
+  answer: 2
+},
+{
+  question: "The reaction of carboxylic acid with alcohol gives:",
+  options: ["Ester", "Ether", "Aldehyde", "Alkene"],
+  answer: 0
+},
+{
+  question: "Which class of amines contains only one alkyl group?",
+  options: ["Primary", "Secondary", "Tertiary", "Quaternary"],
+  answer: 0
+},{
+  question: "Which of the following undergoes electrophilic addition reactions?",
+  options: ["Alkanes", "Alkenes", "Alkanols", "Alkynes"],
+  answer: 1
+},
+{
+  question: "Which test is used to distinguish between alkenes and alkanes?",
+  options: ["Fehling's test", "Tollens' test", "Bromine water", "Iodoform test"],
+  answer: 2
+},
+{
+  question: "Which alcohol is used as fuel in spirit burners?",
+  options: ["Methanol", "Propanol", "Ethanol", "Butanol"],
+  answer: 2
+},
+{
+  question: "What is the product of complete combustion of ethanol?",
+  options: ["CO and H₂O", "CO₂ and H₂O", "H₂ and O₂", "CH₄ and CO₂"],
+  answer: 1
+},
+{
+  question: "Which compound does not show isomerism?",
+  options: ["Butane", "Butene", "Methane", "Pentene"],
+  answer: 2
+},
+{
+  question: "Which of the following compounds can be oxidized to a carboxylic acid?",
+  options: ["Tertiary alcohol", "Secondary alcohol", "Primary alcohol", "Ketone"],
+  answer: 2
+},
+{
+  question: "What is the major product when an alkyne undergoes hydrogenation?",
+  options: ["Alkene", "Aldehyde", "Alcohol", "Alkane"],
+  answer: 3
+},
+{
+  question: "Which of the following has the highest boiling point?",
+  options: ["Butane", "Butanol", "Butene", "Butyne"],
+  answer: 1
+},
+{
+  question: "The iodoform test is positive for compounds with:",
+  options: ["CH₃CHOH–", "CH₃CO–", "CH₃CH₂–", "Both A and B"],
+  answer: 3
+},
+{
+  question: "Which of these compounds is a ketone?",
+  options: ["CH₃COCH₃", "CH₃CH₂OH", "CH₃CH₂CH₂NH₂", "CH₃CHO"],
+  answer: 0
+},
+{
+  question: "Which of the following is an α-hydroxy acid?",
+  options: ["Glycolic acid", "Acetic acid", "Ethanol", "Acetone"],
+  answer: 0
+},
+{
+  question: "Lucas test is used to classify:",
+  options: ["Amines", "Acids", "Alcohols", "Alkanes"],
+  answer: 2
+},
+{
+  question: "Which reagent converts a carboxylic acid to an ester?",
+  options: ["NaOH", "HCl", "Alcohol + H₂SO₄", "Water"],
+  answer: 2
+},
+{
+  question: "Which is more reactive in nucleophilic addition?",
+  options: ["Ketones", "Aldehydes", "Alkanes", "Alcohols"],
+  answer: 1
+},
+{
+  question: "Which reaction is used for preparation of alcohols from alkenes?",
+  options: ["Hydrogenation", "Hydration", "Halogenation", "Dehydration"],
+  answer: 1
+},
+{
+  question: "What is the byproduct of esterification?",
+  options: ["Hydrogen", "Water", "Carbon dioxide", "Methane"],
+  answer: 1
+},
+{
+  question: "Which carbon is most acidic in ethyne?",
+  options: ["C1", "C2", "All equal", "None are acidic"],
+  answer: 2
+},
+{
+  question: "Which compound gives effervescence with sodium carbonate?",
+  options: ["Alcohol", "Carboxylic acid", "Amine", "Ketone"],
+  answer: 1
+},
+{
+  question: "Which reaction shows the property of unsaturation?",
+  options: ["Decolorization of Br₂ water", "Reaction with NaOH", "Esterification", "Fermentation"],
+  answer: 0
+},
+{
+  question: "Which product is formed when ethanol is oxidized with acidified KMnO₄?",
+  options: ["Methanol", "Ethanal", "Ethanoic acid", "Acetone"],
+  answer: 2
+},
+{
+  question: "Which compound is the starting material in soap production (saponification)?",
+  options: ["Alcohol", "Ester", "Ketone", "Alkane"],
+  answer: 1
+},
+{
+  question: "Which is not an isomer of C₄H₁₀O?",
+  options: ["Butan-1-ol", "Butan-2-ol", "Ethoxyethane", "Butanal"],
+  answer: 3
+},
+{
+  question: "What is the hybridization of carbon in ethene?",
+  options: ["sp", "sp²", "sp³", "None"],
+  answer: 1
+},
+{
+  question: "What is the function of concentrated H₂SO₄ in esterification?",
+  options: ["Oxidizing agent", "Catalyst and dehydrating agent", "Reactant", "Base"],
+  answer: 1
+},
+{
+  question: "Which of the following shows geometrical isomerism?",
+  options: ["Alkane", "Alkyne", "Alkene", "Alcohol"],
+  answer: 2
+},
+{
+  question: "What happens when ethanoic acid reacts with sodium bicarbonate?",
+  options: ["No reaction", "Gas is released", "Salt and acid", "Water only"],
+  answer: 1
+},
+{
+  question: "Which acid is a dicarboxylic acid?",
+  options: ["Formic acid", "Acetic acid", "Oxalic acid", "Propanoic acid"],
+  answer: 2
+},
+{
+  question: "Which of the following is formed when ethanol is heated with concentrated H₂SO₄?",
+  options: ["Ethanoic acid", "Ethene", "Ethanal", "Ethyl acetate"],
+  answer: 1
+},
+{
+  question: "Which of these reactions is characteristic of amines?",
+  options: ["Decolorize bromine water", "Give basic reaction", "Form esters", "Burn with sooty flame"],
+  answer: 1
+},
+{
+  question: "Which class of compounds gives a fruity smell?",
+  options: ["Alcohols", "Ethers", "Esters", "Ketones"],
+  answer: 2
+},
+{
+  question: "Which of the following amines has a fishy odor?",
+  options: ["Tertiary amines", "Secondary amines", "Primary amines", "All of them"],
+  answer: 3
+},
+{
+  question: "Which is more basic: ethylamine or ammonia?",
+  options: ["Ammonia", "Ethylamine", "Both equal", "None"],
+  answer: 1
+},
+{
+  question: "What is the product of dehydration of ethanol?",
+  options: ["Ethanal", "Ethene", "Ethanoic acid", "Methanol"],
+  answer: 1
+},
+{
+  question: "Which carbon atom in propan-2-ol is the functional carbon?",
+  options: ["C1", "C2", "C3", "C1 and C3"],
+  answer: 1
+},
+{
+  question: "What is the product of hydrolysis of ester?",
+  options: ["Alcohol and acid", "Only alcohol", "Only acid", "Salt and acid"],
+  answer: 0
+},
+{
+  question: "Which is used to test for unsaturation in hydrocarbons?",
+  options: ["NaOH", "Benedict's solution", "Bromine water", "FeCl₃"],
+  answer: 2
+},
+{
+  question: "Which functional group is absent in alkanes?",
+  options: ["C=C", "C–H", "C–C", "All are present"],
+  answer: 0
+},
+{
+  question: "What is the IUPAC name for CH₃CH₂COOH?",
+  options: ["Formic acid", "Acetic acid", "Propanoic acid", "Butanoic acid"],
+  answer: 2
+},
+{
+  question: "Which acid is stronger: formic acid or acetic acid?",
+  options: ["Formic acid", "Acetic acid", "Both equal", "None"],
+  answer: 0
+}
+
       ],
       hard: [
         {
@@ -2826,7 +3270,256 @@ const topics = {
           options: ["Glycine", "Acetic acid", "Phenol", "Propanol"],
           answer: 0,
         },
-        // Add 40 more...
+        {
+  question: "Which condition favors elimination over substitution?",
+  options: ["Low temperature", "Polar solvent", "Strong base & heat", "Weak nucleophile"],
+  answer: 2
+},
+{
+  question: "What is the mechanism for bromination of alkanes?",
+  options: ["Electrophilic addition", "Free radical substitution", "Nucleophilic substitution", "Condensation"],
+  answer: 1
+},
+{
+  question: "Which reagent converts ketone to secondary alcohol?",
+  options: ["LiAlH₄", "HCl", "KMnO₄", "O₃"],
+  answer: 0
+},
+{
+  question: "Which of the following is a carboxylic acid derivative?",
+  options: ["Aldehyde", "Ketone", "Amide", "Alcohol"],
+  answer: 2
+},
+{
+  question: "Which condition is best for Markovnikov addition?",
+  options: ["Peroxide present", "Cold KMnO₄", "No catalyst", "Acidic medium"],
+  answer: 3
+},
+{
+  question: "How is acyl chloride prepared from a carboxylic acid?",
+  options: ["Reaction with NaOH", "Reaction with SOCl₂", "Heating with water", "Reduction with H₂"],
+  answer: 1
+},
+{
+  question: "Which of the following amines is most basic?",
+  options: ["Aniline", "Ammonia", "Trimethylamine", "Ethanolamine"],
+  answer: 2
+},
+{
+  question: "What is the product of ozonolysis of ethene?",
+  options: ["Ethanoic acid", "Ethanol", "Formaldehyde", "Ethanal"],
+  answer: 3
+},
+{
+  question: "Why are carboxylic acids acidic?",
+  options: ["Hydrogen bonding", "Resonance stabilization of conjugate base", "High electronegativity", "Presence of double bond"],
+  answer: 1
+},
+{
+  question: "Which functional group is present in both esters and acids?",
+  options: ["–CO–", "–COOH", "–OH", "Carbonyl"],
+  answer: 3
+},
+{
+  question: "What is the IUPAC name of CH₃COCH₂CH₃?",
+  options: ["Butanone", "Propanone", "Ethanal", "Butanal"],
+  answer: 0
+},
+{
+  question: "Which condition favors elimination over substitution?",
+  options: ["Low temperature", "Weak base", "Strong bulky base", "Dilute acid"],
+  answer: 2
+},
+{
+  question: "Which intermediate is formed during electrophilic addition to alkenes?",
+  options: ["Radical", "Carbocation", "Carbanion", "Enolate"],
+  answer: 1
+},
+{
+  question: "Which reagent distinguishes aldehydes from ketones?",
+  options: ["Bromine water", "Tollens’ reagent", "NaOH", "Dilute HCl"],
+  answer: 1
+},
+{
+  question: "Which carbonyl compound gives a positive iodoform test?",
+  options: ["Propanal", "Butanone", "Methanal", "Pentanal"],
+  answer: 1
+},
+{
+  question: "Which of the following does not give a positive Fehling's test?",
+  options: ["Glucose", "Formaldehyde", "Acetone", "Ethanol"],
+  answer: 2
+},
+{
+  question: "How many structural isomers are possible for C₄H₁₀O?",
+  options: ["3", "4", "5", "7"],
+  answer: 3
+},
+{
+  question: "The acidity of carboxylic acids is due to:",
+  options: ["Resonance stabilization of anion", "Presence of carbonyl", "Hydrogen bonding", "Electronegativity"],
+  answer: 0
+},
+{
+  question: "Which acid is formed by oxidation of ethanol?",
+  options: ["Formic acid", "Ethanoic acid", "Methanoic acid", "Butanoic acid"],
+  answer: 1
+},
+{
+  question: "Which of the following shows tautomerism?",
+  options: ["Alkanes", "Alcohols", "Aldehydes", "Ketones"],
+  answer: 3
+},
+{
+  question: "Why are alkynes more acidic than alkenes?",
+  options: ["Higher electronegativity", "sp hybridization", "π bonding", "Larger bond angles"],
+  answer: 1
+},
+{
+  question: "Which of these is not formed during ozonolysis of alkenes?",
+  options: ["Aldehydes", "Ketones", "Alcohols", "None"],
+  answer: 2
+},
+{
+  question: "Which amine shows the strongest basic character in aqueous solution?",
+  options: ["Methylamine", "Ammonia", "Aniline", "Trimethylamine"],
+  answer: 0
+},
+{
+  question: "Which of the following can show enolization?",
+  options: ["Aldehyde", "Ketone", "Both", "Neither"],
+  answer: 2
+},
+{
+  question: "Which compound gives positive Schiff’s test?",
+  options: ["Ketones", "Aldehydes", "Alcohols", "Carboxylic acids"],
+  answer: 1
+},
+{
+  question: "Which of the following compounds undergoes nucleophilic addition most easily?",
+  options: ["Aldehyde", "Ketone", "Carboxylic acid", "Alcohol"],
+  answer: 0
+},
+{
+  question: "Hydroboration-oxidation of an alkene gives:",
+  options: ["Primary alcohol", "Tertiary alcohol", "Secondary alcohol", "Aldehyde"],
+  answer: 0
+},
+{
+  question: "Which type of reaction is dehydration of alcohol?",
+  options: ["Substitution", "Addition", "Elimination", "Oxidation"],
+  answer: 2
+},
+{
+  question: "What is the product of oxidation of a secondary alcohol?",
+  options: ["Aldehyde", "Ketone", "Carboxylic acid", "Alkene"],
+  answer: 1
+},
+{
+  question: "Which compound has the highest boiling point?",
+  options: ["Butanoic acid", "Butanone", "Butanol", "Butane"],
+  answer: 0
+},
+{
+  question: "Which reagent is used in the reduction of carboxylic acids to alcohols?",
+  options: ["NaBH₄", "LiAlH₄", "KMnO₄", "HCl"],
+  answer: 1
+},
+{
+  question: "Which base promotes Hofmann elimination in amines?",
+  options: ["NaOH", "AgNO₃", "NaNH₂", "KOH in ethanol"],
+  answer: 3
+},
+{
+  question: "What is the hybridization of carbon in carbonyl compounds?",
+  options: ["sp", "sp²", "sp³", "sp³d"],
+  answer: 1
+},
+{
+  question: "Which is more reactive in nucleophilic substitution: alkyl halide or alcohol?",
+  options: ["Alcohol", "Alkyl halide", "Equal", "Ether"],
+  answer: 1
+},
+{
+  question: "Which of the following is amphoteric?",
+  options: ["Water", "Ethanol", "Ammonia", "Methane"],
+  answer: 0
+},
+{
+  question: "Which reaction produces ethyne from calcium carbide?",
+  options: ["Addition", "Hydrolysis", "Substitution", "Combustion"],
+  answer: 1
+},
+{
+  question: "Which of the following has the lowest pKa?",
+  options: ["Ethanol", "Acetic acid", "Phenol", "Water"],
+  answer: 1
+},
+{
+  question: "What is the IUPAC name for CH≡C–CH₂CH₃?",
+  options: ["Butyne", "But-1-yne", "But-2-yne", "Butene"],
+  answer: 1
+},
+{
+  question: "How many π bonds are in but-2-yne?",
+  options: ["0", "1", "2", "3"],
+  answer: 2
+},
+{
+  question: "The oxidation of isopropanol gives:",
+  options: ["Methanal", "Propanone", "Propanal", "Propanoic acid"],
+  answer: 1
+},
+{
+  question: "Which alcohol gives a tertiary carbocation on dehydration?",
+  options: ["Ethanol", "Propan-2-ol", "2-methylpropan-2-ol", "Methanol"],
+  answer: 2
+},
+{
+  question: "Which reagent does NOT oxidize secondary alcohols?",
+  options: ["KMnO₄", "NaBH₄", "CrO₃", "H₂SO₄"],
+  answer: 1
+},
+{
+  question: "Which amine does not undergo acylation?",
+  options: ["Primary", "Secondary", "Tertiary", "Aromatic"],
+  answer: 2
+},
+{
+  question: "What is the reducing agent in the Clemmensen reduction?",
+  options: ["Zn/HCl", "LiAlH₄", "H₂/Pd", "NaBH₄"],
+  answer: 0
+},
+{
+  question: "Ammonolysis of an acid chloride gives:",
+  options: ["Amine", "Amide", "Acid", "Ketone"],
+  answer: 1
+},
+{
+  question: "What type of compound is formed when two alcohols react with an acid catalyst?",
+  options: ["Ether", "Ester", "Aldehyde", "Ketone"],
+  answer: 0
+},
+{
+  question: "Which of the following is the correct order of boiling points?",
+  options: ["Alkane < Alcohol < Carboxylic acid", "Alcohol < Carboxylic acid < Alkane", "Carboxylic acid < Alcohol < Alkane", "Alcohol < Alkane < Carboxylic acid"],
+  answer: 0
+},
+{
+  question: "What is formed when acetylene is passed into ammoniacal AgNO₃?",
+  options: ["Silver acetylide", "Ethane", "Ethyne", "Silver nitrate"],
+  answer: 0
+},
+{
+  question: "Which of the following is a β-keto acid?",
+  options: ["Acetoacetic acid", "Oxalic acid", "Benzoic acid", "Lactic acid"],
+  answer: 0
+},
+{
+  question: "Which reagent converts alkenes to alcohols by anti-Markovnikov addition?",
+  options: ["HBr", "BH₃·THF + H₂O₂", "H₂SO₄ + H₂O", "HCl"],
+  answer: 1
+},
       ],
     },
 
@@ -2882,7 +3575,206 @@ const topics = {
         options: ["+1", "+2", "+3", "–1"],
         answer: 2,
       },
-      // Add 40 more...
+      {
+  question: "What is the atomic number of lithium?",
+  options: ["1", "2", "3", "4"],
+  answer: 2,
+},
+{
+  question: "Which element is more reactive: Na or K?",
+  options: ["Na", "K", "Both same", "None"],
+  answer: 1,
+},
+{
+  question: "Which of these is a Group 2A element?",
+  options: ["Li", "Mg", "Al", "Na"],
+  answer: 1,
+},
+{
+  question: "Which element forms a white precipitate with NaOH?",
+  options: ["Boron", "Calcium", "Aluminium", "Sodium"],
+  answer: 2,
+},
+{
+  question: "Which Group 1A metal is stored in oil?",
+  options: ["Lithium", "Sodium", "Potassium", "All of these"],
+  answer: 3,
+},
+{
+  question: "What is a common compound of Group 1A metals?",
+  options: ["Hydroxide", "Chloride", "Oxide", "All of these"],
+  answer: 3,
+},
+{
+  question: "Which of the following is the least reactive Group 1A element?",
+  options: ["Lithium", "Sodium", "Potassium", "Rubidium"],
+  answer: 0,
+},
+{
+  question: "What color does sodium impart to flame?",
+  options: ["Green", "Yellow", "Red", "Blue"],
+  answer: 1,
+},
+{
+  question: "What is the chemical symbol for calcium?",
+  options: ["C", "Cl", "Ca", "Cs"],
+  answer: 2,
+},
+{
+  question: "Which group contains elements with 2 valence electrons?",
+  options: ["1A", "2A", "3A", "4A"],
+  answer: 1,
+},
+{
+  question: "Which metal is used in fireworks and flares for red color?",
+  options: ["Na", "Mg", "Sr", "K"],
+  answer: 2,
+},
+{
+  question: "What is the chemical symbol for magnesium?",
+  options: ["Mn", "Mg", "Ma", "Mc"],
+  answer: 1,
+},
+{
+  question: "Group 3A elements commonly form which type of compounds?",
+  options: ["Basic", "Amphoteric", "Acidic", "Neutral"],
+  answer: 1,
+},
+{
+  question: "What is the most abundant Group 2A metal in the earth’s crust?",
+  options: ["Calcium", "Magnesium", "Strontium", "Barium"],
+  answer: 0,
+},
+{
+  question: "Which of the following is not in Group 1A?",
+  options: ["K", "Li", "Mg", "Na"],
+  answer: 2,
+},
+{
+  question: "Which of these has the largest atomic radius?",
+  options: ["Li", "Na", "K", "Rb"],
+  answer: 3,
+},
+{
+  question: "What is the formula of sodium hydroxide?",
+  options: ["NaOH", "NaO", "NaH", "Na₂O"],
+  answer: 0,
+},
+{
+  question: "Which of the following metals is soft and can be cut with a knife?",
+  options: ["Iron", "Calcium", "Sodium", "Aluminium"],
+  answer: 2,
+},
+{
+  question: "What is the group number of magnesium?",
+  options: ["1A", "2A", "3A", "4A"],
+  answer: 1,
+},
+{
+  question: "What is the symbol for boron?",
+  options: ["Br", "B", "Bo", "Be"],
+  answer: 1,
+},
+{
+  question: "Which element is not a metal in Group 3A?",
+  options: ["Aluminium", "Gallium", "Boron", "Indium"],
+  answer: 2,
+},
+{
+  question: "Group 2A metals react with water to produce:",
+  options: ["Acid", "Salt and hydrogen", "Base and hydrogen", "Only salt"],
+  answer: 2,
+},
+{
+  question: "Which Group 1A element has the highest ionization energy?",
+  options: ["Li", "Na", "K", "Rb"],
+  answer: 0,
+},
+{
+  question: "Which Group 2A metal gives a white flame?",
+  options: ["Calcium", "Strontium", "Barium", "Magnesium"],
+  answer: 3,
+},
+{
+  question: "Which group forms +1 ions?",
+  options: ["1A", "2A", "3A", "4A"],
+  answer: 0,
+},
+{
+  question: "Which of these is most electropositive?",
+  options: ["Li", "K", "Na", "Cs"],
+  answer: 3,
+},
+{
+  question: "Which element is used in flash photography?",
+  options: ["Magnesium", "Calcium", "Potassium", "Boron"],
+  answer: 0,
+},
+{
+  question: "Which of these is a good conductor of electricity?",
+  options: ["Boron", "Aluminium", "Calcium", "None"],
+  answer: 1,
+},
+{
+  question: "What is the trend of reactivity in Group 1A?",
+  options: ["Decreases down the group", "Increases", "Remains same", "Random"],
+  answer: 1,
+},
+{
+  question: "Which Group 3A element is a metalloid?",
+  options: ["Al", "Ga", "Tl", "B"],
+  answer: 3,
+},
+{
+  question: "Which of these has the lowest density?",
+  options: ["Na", "K", "Li", "Rb"],
+  answer: 2,
+},
+{
+  question: "Which element is essential for chlorophyll in plants?",
+  options: ["Calcium", "Magnesium", "Sodium", "Boron"],
+  answer: 1,
+},
+{
+  question: "Which of these elements is amphoteric?",
+  options: ["Sodium", "Magnesium", "Aluminium", "Potassium"],
+  answer: 2,
+},
+{
+  question: "Group 1A elements are also called:",
+  options: ["Halogens", "Alkali metals", "Transition metals", "Inert gases"],
+  answer: 1,
+},
+{
+  question: "Which Group 2A element forms insoluble sulfate?",
+  options: ["Mg", "Ca", "Ba", "Be"],
+  answer: 2,
+},
+{
+  question: "What is the formula for calcium chloride?",
+  options: ["CaCl", "CaCl₂", "Ca₂Cl", "Ca₂Cl₂"],
+  answer: 1,
+},
+{
+  question: "Which of the following is a compound of boron?",
+  options: ["NaCl", "BCl₃", "CaCO₃", "Al₂O₃"],
+  answer: 1,
+},
+{
+  question: "What happens when sodium is exposed to air?",
+  options: ["Explodes", "Catches fire", "Forms oxide layer", "Nothing"],
+  answer: 2,
+},
+{
+  question: "Which of these elements shows diagonal relationship with Al?",
+  options: ["Li", "Be", "Mg", "Na"],
+  answer: 1,
+},
+{
+  question: "Which group does gallium belong to?",
+  options: ["1A", "2A", "3A", "4A"],
+  answer: 2,
+}
     ],
     medium: [
       {
@@ -2940,7 +3832,207 @@ const topics = {
         options: ["B", "Al", "Ga", "In"],
         answer: 1,
       },
-      // Add 40 more...
+      {
+  question: "Why are Group 1A elements stored in oil?",
+  options: ["They are volatile", "They catch fire in air", "They dissolve in oil", "They evaporate easily"],
+  answer: 1,
+},
+{
+  question: "Which element reacts with water to form magnesium hydroxide?",
+  options: ["Mg", "Ca", "Na", "Li"],
+  answer: 0,
+},
+{
+  question: "The flame color of calcium is:",
+  options: ["Crimson", "Brick red", "Yellow", "Green"],
+  answer: 1,
+},
+{
+  question: "Which Group 3A element forms amphoteric oxide?",
+  options: ["Boron", "Gallium", "Aluminium", "Indium"],
+  answer: 2,
+},
+{
+  question: "Alkali metals form which kind of oxides?",
+  options: ["Basic", "Acidic", "Neutral", "Amphoteric"],
+  answer: 0,
+},
+{
+  question: "The hydration enthalpy of Li⁺ is greater than Na⁺ because:",
+  options: ["Li⁺ is more reactive", "Li⁺ is smaller", "Na⁺ is heavier", "Na⁺ has more charge"],
+  answer: 1,
+},
+{
+  question: "Which group forms insoluble carbonates in water?",
+  options: ["1A", "2A", "3A", "4A"],
+  answer: 1,
+},
+{
+  question: "Which of these shows maximum reducing power?",
+  options: ["Li", "Na", "K", "Cs"],
+  answer: 3,
+},
+{
+  question: "Group 2A oxides react with water to form:",
+  options: ["Acids", "Bases", "Salts", "Hydrates"],
+  answer: 1,
+},
+{
+  question: "Which element forms a stable hydride: B, Al, Mg, or Ca?",
+  options: ["B", "Al", "Mg", "Ca"],
+  answer: 2,
+},
+{
+  question: "Which of these reacts with nitrogen to form nitride?",
+  options: ["Li", "Na", "K", "Rb"],
+  answer: 0,
+},
+{
+  question: "The basicity of Group 2A hydroxides:",
+  options: ["Decreases down the group", "Increases", "Remains same", "Is unpredictable"],
+  answer: 1,
+},
+{
+  question: "Why is beryllium different from other 2A elements?",
+  options: ["Smaller size", "Forms covalent compounds", "Forms amphoteric oxide", "All of the above"],
+  answer: 3,
+},
+{
+  question: "The oxide of which element is acidic?",
+  options: ["B", "Al", "Ca", "Na"],
+  answer: 0,
+},
+{
+  question: "Which group has elements that form M³⁺ ions?",
+  options: ["1A", "2A", "3A", "4A"],
+  answer: 2,
+},
+{
+  question: "The density of alkali metals down the group:",
+  options: ["Increases", "Decreases", "Remains constant", "First decreases then increases"],
+  answer: 0,
+},
+{
+  question: "Which of these is used in deoxidizing molten metals?",
+  options: ["Na", "Al", "Mg", "B"],
+  answer: 2,
+},
+{
+  question: "What is the hybridization of boron in BF₃?",
+  options: ["sp", "sp²", "sp³", "dsp²"],
+  answer: 1,
+},
+{
+  question: "Which of these Group 3A elements is liquid at room temperature?",
+  options: ["B", "Al", "Ga", "Tl"],
+  answer: 2,
+},
+{
+  question: "Which Group 2A element forms hard water with sulfate ions?",
+  options: ["Mg", "Ca", "Ba", "Be"],
+  answer: 1,
+},
+{
+  question: "Reaction of calcium with water produces:",
+  options: ["CaO", "CaCO₃", "Ca(OH)₂", "CaCl₂"],
+  answer: 2,
+},
+{
+  question: "What is the oxidation state of Al in AlCl₃?",
+  options: ["+1", "+2", "+3", "+4"],
+  answer: 2,
+},
+{
+  question: "The electrolysis of fused NaCl produces:",
+  options: ["Na and H₂", "Na and Cl₂", "NaOH", "Na₂O"],
+  answer: 1,
+},
+{
+  question: "What is the structure of BeCl₂ in solid state?",
+  options: ["Linear", "Tetrahedral", "Polymeric", "Bent"],
+  answer: 2,
+},
+{
+  question: "Which of the following is least reactive with water?",
+  options: ["Na", "K", "Li", "Rb"],
+  answer: 2,
+},
+{
+  question: "Why is Ga’s melting point low?",
+  options: ["Weak metallic bonding", "Small size", "Low ionization energy", "Inert pair effect"],
+  answer: 0,
+},
+{
+  question: "Which Group 3A element is used in semiconductors?",
+  options: ["Tl", "Al", "B", "Ga"],
+  answer: 3,
+},
+{
+  question: "Group 1A elements show which flame test color?",
+  options: ["Blue", "Violet", "Red", "Yellow"],
+  answer: 3,
+},
+{
+  question: "Which Group 2A element has least solubility of its hydroxide?",
+  options: ["Ba", "Sr", "Mg", "Ca"],
+  answer: 2,
+},
+{
+  question: "Which element in Group 1A is most reactive?",
+  options: ["Li", "Na", "K", "Cs"],
+  answer: 3,
+},
+{
+  question: "Which of these forms a protective oxide layer on surface?",
+  options: ["Li", "Mg", "Ca", "Al"],
+  answer: 3,
+},
+{
+  question: "What happens when BCl₃ is exposed to water?",
+  options: ["No reaction", "Explodes", "Hydrolyzes to boric acid", "Burns"],
+  answer: 2,
+},
+{
+  question: "Aluminium oxide is:",
+  options: ["Acidic", "Basic", "Neutral", "Amphoteric"],
+  answer: 3,
+},
+{
+  question: "Which alkali metal is used in atomic clocks?",
+  options: ["Na", "K", "Rb", "Cs"],
+  answer: 3,
+},
+{
+  question: "Which alkali metal is used in heat exchange in nuclear reactors?",
+  options: ["Li", "Na", "K", "Rb"],
+  answer: 1,
+},
+{
+  question: "Why does Be show covalent bonding?",
+  options: ["High ionization", "Small size", "High charge density", "All"],
+  answer: 3,
+},
+{
+  question: "The compound NaH is a:",
+  options: ["Salt", "Hydride", "Acid", "Peroxide"],
+  answer: 1,
+},
+{
+  question: "Which ion forms the hardest base according to HSAB theory?",
+  options: ["Mg²⁺", "Ca²⁺", "Ba²⁺", "Be²⁺"],
+  answer: 3,
+},
+{
+  question: "AlCl₃ in molten state conducts electricity because:",
+  options: ["Covalent", "Ionic", "Amphoteric", "Insulator"],
+  answer: 1,
+},
+{
+  question: "Group 3A metals form which oxides?",
+  options: ["M₂O₃", "MO", "MO₂", "M₂O"],
+  answer: 0,
+}
+
     ],
     hard: [
       {
@@ -3008,7 +4100,207 @@ const topics = {
         ],
         answer: 1,
       },
-      // Add 40 more...
+      {
+  question: "Why does lithium form a nitride while other alkali metals do not?",
+  options: ["Higher reactivity", "Small size and high charge density", "Low ionization energy", "It is a non-metal"],
+  answer: 1,
+},
+{
+  question: "What explains the diagonal relationship between Li and Mg?",
+  options: ["Same group", "Similar size and charge/radius ratio", "Same reactivity", "Both are metals"],
+  answer: 1,
+},
+{
+  question: "Which of the following forms a covalent halide?",
+  options: ["NaCl", "KBr", "BeCl₂", "CsF"],
+  answer: 2,
+},
+{
+  question: "The amphoteric nature of BeO is due to:",
+  options: ["Its ionic nature", "Its small size and high charge", "Being a metal oxide", "Being a non-metal oxide"],
+  answer: 1,
+},
+{
+  question: "The inert pair effect is most significant in:",
+  options: ["Boron", "Gallium", "Indium", "Thallium"],
+  answer: 3,
+},
+{
+  question: "Which is the correct trend in basicity of hydroxides in Group 2A?",
+  options: ["Be(OH)₂ > Ba(OH)₂", "Mg(OH)₂ > Ca(OH)₂", "Ba(OH)₂ > Mg(OH)₂", "All are equal"],
+  answer: 2,
+},
+{
+  question: "Which Group 1A metal forms the least stable peroxide?",
+  options: ["Li", "Na", "K", "Rb"],
+  answer: 0,
+},
+{
+  question: "The high melting point of LiF is due to:",
+  options: ["Covalent bonding", "Large ions", "High lattice energy", "Low hydration energy"],
+  answer: 2,
+},
+{
+  question: "Which element shows anomalous behavior in Group 2A?",
+  options: ["Ca", "Ba", "Be", "Sr"],
+  answer: 2,
+},
+{
+  question: "Which metal has the highest flame test intensity?",
+  options: ["Na", "K", "Rb", "Cs"],
+  answer: 0,
+},
+{
+  question: "Aluminium exhibits +1 oxidation state due to:",
+  options: ["d-orbitals", "Inert pair effect", "Covalency", "It does not show +1 state"],
+  answer: 3,
+},
+{
+  question: "The chlorides of Group 1A are mostly:",
+  options: ["Covalent", "Ionic and soluble", "Ionic and insoluble", "Polar covalent"],
+  answer: 1,
+},
+{
+  question: "Which Group 3A element exhibits amphoteric hydroxide?",
+  options: ["B", "Al", "Ga", "Tl"],
+  answer: 1,
+},
+{
+  question: "What happens when Na reacts with CO₂?",
+  options: ["Na₂CO₃ forms", "NaHCO₃ forms", "Sodium carbonate forms", "Sodium oxalate forms"],
+  answer: 0,
+},
+{
+  question: "What is the product of reaction between Al and NaOH?",
+  options: ["NaAlO₂ + H₂", "Al₂O₃", "AlCl₃", "NaAlH₄"],
+  answer: 0,
+},
+{
+  question: "Boron halides behave as Lewis acids because:",
+  options: ["They donate electrons", "They accept electrons", "They are basic", "They form salts"],
+  answer: 1,
+},
+{
+  question: "Why is Tl⁺ more stable than Tl³⁺?",
+  options: ["Large size", "Low ionization energy", "Inert pair effect", "High reactivity"],
+  answer: 2,
+},
+{
+  question: "Aluminium oxide reacts with HCl to give:",
+  options: ["Al(OH)₃", "AlCl₃", "Al₂O₃", "Al₂Cl₆"],
+  answer: 1,
+},
+{
+  question: "Which of the following forms a covalent hydride?",
+  options: ["LiH", "MgH₂", "BeH₂", "NaH"],
+  answer: 2,
+},
+{
+  question: "Which element has the strongest polarizing power?",
+  options: ["Li⁺", "Na⁺", "K⁺", "Rb⁺"],
+  answer: 0,
+},
+{
+  question: "What is formed when BCl₃ reacts with NH₃?",
+  options: ["B(NH₃)₃", "BCl₃·NH₃ complex", "Boron nitride", "No reaction"],
+  answer: 1,
+},
+{
+  question: "Which pair forms a complex hydride used in reducing agents?",
+  options: ["Na and B", "Li and Al", "Na and H", "Al and H"],
+  answer: 1,
+},
+{
+  question: "Solubility of Group 2A sulfates decreases down the group due to:",
+  options: ["Decreased hydration energy", "Increased lattice energy", "Decreased lattice energy", "Increased solubility"],
+  answer: 0,
+},
+{
+  question: "Which of these shows maximum covalent character in its halide?",
+  options: ["LiCl", "NaCl", "KCl", "CsCl"],
+  answer: 0,
+},
+{
+  question: "The structure of diborane involves:",
+  options: ["4-center 2-electron bonds", "3-center 2-electron bonds", "2-center 2-electron bonds", "Hydrogen bonding"],
+  answer: 1,
+},
+{
+  question: "Which group 3A element shows +1 oxidation due to inert pair effect?",
+  options: ["Al", "Ga", "In", "Tl"],
+  answer: 3,
+},
+{
+  question: "Why is BeF₂ polymeric in nature?",
+  options: ["Hydrogen bonding", "Bridging fluorides", "Lone pair on Be", "Large size"],
+  answer: 1,
+},
+{
+  question: "Why does Na react explosively with water?",
+  options: ["Forms NaOH", "Produces H₂ gas", "Exothermic reaction", "All of these"],
+  answer: 3,
+},
+{
+  question: "Which metal forms an amphoteric oxide and hydroxide?",
+  options: ["Ca", "Al", "Na", "K"],
+  answer: 1,
+},
+{
+  question: "Which alkali metal carbonate is thermally unstable?",
+  options: ["Na₂CO₃", "K₂CO₃", "Li₂CO₃", "Rb₂CO₃"],
+  answer: 2,
+},
+{
+  question: "Why does AlCl₃ behave as a dimer in solid state?",
+  options: ["Octet rule", "Covalency", "Electron deficiency", "Hydrogen bonding"],
+  answer: 2,
+},
+{
+  question: "The coordination number of Al in [Al(H₂O)₆]³⁺ is:",
+  options: ["4", "6", "2", "3"],
+  answer: 1,
+},
+{
+  question: "Which of these hydroxides decomposes upon heating?",
+  options: ["Be(OH)₂", "Mg(OH)₂", "Ba(OH)₂", "Ca(OH)₂"],
+  answer: 0,
+},
+{
+  question: "Boron is used as a dopant in:",
+  options: ["Glass", "Metals", "Semiconductors", "Ceramics"],
+  answer: 2,
+},
+{
+  question: "Aluminium acts as a reducing agent in:",
+  options: ["Thermite process", "Haber process", "Bayer process", "Hall-Héroult process"],
+  answer: 0,
+},
+{
+  question: "Which Group 3A element shows the greatest metallic character?",
+  options: ["B", "Al", "Ga", "Tl"],
+  answer: 3,
+},
+{
+  question: "Which of these has the largest atomic radius?",
+  options: ["Li", "Na", "K", "Rb"],
+  answer: 3,
+},
+{
+  question: "Which element forms the most stable oxoanion?",
+  options: ["B", "Al", "Ga", "In"],
+  answer: 0,
+},
+{
+  question: "Which Group 1A element is used in medicine for bipolar disorder?",
+  options: ["Na", "K", "Li", "Rb"],
+  answer: 2,
+},
+{
+  question: "Why is Li different from other Group 1A elements?",
+  options: ["Small size", "High charge density", "Diagonal relationship", "All of these"],
+  answer: 3,
+}
+
     ],
   },
 
@@ -3074,7 +4366,207 @@ const topics = {
         options: ["Na", "Cl", "Ni", "Mg"],
         answer: 2,
       },
-      // Add 40 more...
+     {
+  question: "Which transition metal is commonly used in electric wiring?",
+  options: ["Iron", "Copper", "Silver", "Zinc"],
+  answer: 1,
+},
+{
+  question: "What color is typically associated with copper(II) sulfate solution?",
+  options: ["Green", "Blue", "Yellow", "Red"],
+  answer: 1,
+},
+{
+  question: "Which transition metal is used in galvanizing steel?",
+  options: ["Zinc", "Iron", "Nickel", "Copper"],
+  answer: 0,
+},
+{
+  question: "Which metal forms a reddish-brown precipitate with sodium hydroxide?",
+  options: ["Cu²⁺", "Fe²⁺", "Fe³⁺", "Zn²⁺"],
+  answer: 2,
+},
+{
+  question: "Which of the following has variable oxidation states?",
+  options: ["K", "Na", "Fe", "Mg"],
+  answer: 2,
+},
+{
+  question: "Which transition metal ion is typically yellow in solution?",
+  options: ["Cu²⁺", "Fe³⁺", "Ni²⁺", "Mn²⁺"],
+  answer: 1,
+},
+{
+  question: "Which of these is NOT a typical property of transition metals?",
+  options: ["High melting points", "Forming colored compounds", "Poor conductivity", "Variable oxidation states"],
+  answer: 2,
+},
+{
+  question: "What is the charge on chromium in Cr³⁺?",
+  options: ["+1", "+2", "+3", "+4"],
+  answer: 2,
+},
+{
+  question: "Which metal is commonly used as a catalyst in the Haber process?",
+  options: ["Platinum", "Iron", "Zinc", "Copper"],
+  answer: 1,
+},
+{
+  question: "Which of the following is a typical use of transition metals?",
+  options: ["Salt production", "Fertilizer", "Catalysis", "Electrolysis"],
+  answer: 2,
+},
+{
+  question: "Which of the following is a typical oxidation state for manganese?",
+  options: ["+1", "+2", "+3", "+4"],
+  answer: 1,
+},
+{
+  question: "Transition metals are often good:",
+  options: ["Insulators", "Nonmetals", "Conductors", "Noble gases"],
+  answer: 2,
+},
+{
+  question: "Which of the following elements is NOT a transition metal?",
+  options: ["Titanium", "Scandium", "Zinc", "Sodium"],
+  answer: 3,
+},
+{
+  question: "What is the electron configuration of Fe²⁺?",
+  options: ["[Ar] 4s² 3d⁴", "[Ar] 3d⁶", "[Ar] 4s² 3d⁶", "[Ar] 4s¹ 3d⁷"],
+  answer: 1,
+},
+{
+  question: "Which of these transition metals is the softest?",
+  options: ["Iron", "Zinc", "Copper", "Silver"],
+  answer: 1,
+},
+{
+  question: "Which transition metal is known for its resistance to corrosion?",
+  options: ["Copper", "Iron", "Chromium", "Zinc"],
+  answer: 2,
+},
+{
+  question: "The rusting of iron involves formation of:",
+  options: ["Fe²⁺", "Fe³⁺", "Fe⁰", "Fe⁴⁺"],
+  answer: 1,
+},
+{
+  question: "Which transition element is a liquid at room temperature?",
+  options: ["Mercury", "Zinc", "Iron", "Cobalt"],
+  answer: 0,
+},
+{
+  question: "Which of these elements is used in coinage?",
+  options: ["Iron", "Cobalt", "Copper", "Titanium"],
+  answer: 2,
+},
+{
+  question: "Which element shows catalytic activity in hydrogenation?",
+  options: ["Silver", "Gold", "Nickel", "Lead"],
+  answer: 2,
+},
+{
+  question: "Which transition metal is used in batteries?",
+  options: ["Lead", "Lithium", "Cobalt", "Neon"],
+  answer: 2,
+},
+{
+  question: "Which of the following transition metals is radioactive?",
+  options: ["Scandium", "Uranium", "Zinc", "Titanium"],
+  answer: 1,
+},
+{
+  question: "Which ion gives a blue solution in water?",
+  options: ["Cu²⁺", "Fe³⁺", "Zn²⁺", "Cr³⁺"],
+  answer: 0,
+},
+{
+  question: "What color is typical of Fe²⁺ compounds in solution?",
+  options: ["Yellow", "Green", "Blue", "Orange"],
+  answer: 1,
+},
+{
+  question: "Which of these forms a +1 oxidation state commonly?",
+  options: ["Cu", "Fe", "Zn", "Co"],
+  answer: 0,
+},
+{
+  question: "Which of these is a magnetic transition metal?",
+  options: ["Ni", "Cu", "Zn", "Ag"],
+  answer: 0,
+},
+{
+  question: "Which of these forms white precipitate with NaOH that dissolves in excess?",
+  options: ["Fe²⁺", "Zn²⁺", "Fe³⁺", "Cu²⁺"],
+  answer: 1,
+},
+{
+  question: "Which is used in the contact process for sulfuric acid?",
+  options: ["V₂O₅", "MnO₂", "FeCl₃", "Pt"],
+  answer: 0,
+},
+{
+  question: "Which metal is used in light bulb filaments?",
+  options: ["Iron", "Copper", "Tungsten", "Nickel"],
+  answer: 2,
+},
+{
+  question: "Which transition metal forms a purple solution in its +7 state?",
+  options: ["Mn", "Cr", "Fe", "Cu"],
+  answer: 0,
+},
+{
+  question: "Which of these has the electronic configuration [Ar] 3d⁵ 4s¹?",
+  options: ["Fe", "Cr", "Mn", "Ni"],
+  answer: 1,
+},
+{
+  question: "Which element can exhibit oxidation states from +2 to +7?",
+  options: ["Cu", "Mn", "Zn", "Co"],
+  answer: 1,
+},
+{
+  question: "Which metal is commonly used in electroplating?",
+  options: ["Iron", "Zinc", "Nickel", "Sodium"],
+  answer: 2,
+},
+{
+  question: "Which of the following forms a brown precipitate with NaOH?",
+  options: ["Fe²⁺", "Fe³⁺", "Cu²⁺", "Zn²⁺"],
+  answer: 1,
+},
+{
+  question: "Which transition metal has the symbol 'Ag'?",
+  options: ["Gold", "Silver", "Sodium", "Argon"],
+  answer: 1,
+},
+{
+  question: "What color is nickel(II) ion in solution?",
+  options: ["Green", "Blue", "Pink", "Yellow"],
+  answer: 0,
+},
+{
+  question: "Which element is added to steel to make it stainless?",
+  options: ["Zinc", "Aluminum", "Chromium", "Nickel"],
+  answer: 2,
+},
+{
+  question: "Which metal forms a blue precipitate with NaOH?",
+  options: ["Fe³⁺", "Fe²⁺", "Cu²⁺", "Zn²⁺"],
+  answer: 2,
+},
+{
+  question: "Which of these is not a transition metal?",
+  options: ["Zn", "Cu", "Fe", "Cr"],
+  answer: 0,
+},
+{
+  question: "Which transition metal ion forms pale green solutions?",
+  options: ["Cu²⁺", "Fe³⁺", "Fe²⁺", "Mn²⁺"],
+  answer: 2,
+}
+
     ],
     medium: [
       {
@@ -3143,7 +4635,206 @@ const topics = {
         ],
         answer: 2,
       },
-      // Add 40 more...
+     {
+  question: "What is the electron configuration of Fe³⁺?",
+  options: ["[Ar] 3d⁵", "[Ar] 3d⁶", "[Ar] 4s² 3d⁵", "[Ar] 3d³"],
+  answer: 0,
+},
+{
+  question: "Which transition metal forms a complex ion with ammonia to give a deep blue color?",
+  options: ["Iron", "Copper", "Zinc", "Cobalt"],
+  answer: 1,
+},
+{
+  question: "The splitting of d-orbitals in a transition metal complex leads to:",
+  options: ["Ionization", "Lone pairs", "Color", "Radioactivity"],
+  answer: 2,
+},
+{
+  question: "Which ligand causes the greatest splitting in crystal field theory?",
+  options: ["Cl⁻", "H₂O", "NH₃", "CN⁻"],
+  answer: 3,
+},
+{
+  question: "What is the geometry of a transition metal complex with coordination number 6?",
+  options: ["Tetrahedral", "Octahedral", "Square planar", "Trigonal bipyramidal"],
+  answer: 1,
+},
+{
+  question: "Which ion does NOT show color in aqueous solution?",
+  options: ["Cu²⁺", "Zn²⁺", "Fe²⁺", "Ni²⁺"],
+  answer: 1,
+},
+{
+  question: "Which transition metal is essential in hemoglobin?",
+  options: ["Copper", "Iron", "Zinc", "Magnesium"],
+  answer: 1,
+},
+{
+  question: "Which of these transition metals is most commonly used in making magnets?",
+  options: ["Nickel", "Zinc", "Silver", "Vanadium"],
+  answer: 0,
+},
+{
+  question: "In which process is platinum used as a catalyst?",
+  options: ["Haber", "Contact", "Ostwald", "Hydrogenation"],
+  answer: 3,
+},
+{
+  question: "Which of these shows the highest number of oxidation states?",
+  options: ["Iron", "Manganese", "Zinc", "Copper"],
+  answer: 1,
+},
+{
+  question: "Which complex is square planar in shape?",
+  options: ["[Ni(CN)₄]²⁻", "[Fe(H₂O)₆]²⁺", "[Cu(NH₃)₄]²⁺", "[CrCl₃(H₂O)₃]"],
+  answer: 0,
+},
+{
+  question: "What is the oxidation state of Mn in KMnO₄?",
+  options: ["+4", "+5", "+6", "+7"],
+  answer: 3,
+},
+{
+  question: "Which of the following is paramagnetic?",
+  options: ["Zn²⁺", "Fe²⁺", "Cu⁺", "Sc³⁺"],
+  answer: 1,
+},
+{
+  question: "Which reagent is used to distinguish between Fe²⁺ and Fe³⁺?",
+  options: ["Benedict's solution", "NaOH", "Ammonia", "Potassium hexacyanoferrate(III)"],
+  answer: 3,
+},
+{
+  question: "Which of these is NOT an inner transition element?",
+  options: ["Uranium", "Thorium", "Lanthanum", "Cobalt"],
+  answer: 3,
+},
+{
+  question: "Which property decreases across the transition series?",
+  options: ["Atomic radius", "Density", "Melting point", "Magnetic moment"],
+  answer: 0,
+},
+{
+  question: "Which ion gives a purple color in solution?",
+  options: ["Cr³⁺", "Mn²⁺", "MnO₄⁻", "Fe³⁺"],
+  answer: 2,
+},
+{
+  question: "What color is the complex [Cu(NH₃)₄]²⁺?",
+  options: ["Green", "Blue", "Violet", "Orange"],
+  answer: 1,
+},
+{
+  question: "Which element has the configuration [Ar] 4s¹ 3d⁵?",
+  options: ["Mn", "Fe", "Cr", "Co"],
+  answer: 2,
+},
+{
+  question: "What is the hybridization of Ni in [Ni(CN)₄]²⁻?",
+  options: ["sp³", "dsp²", "sp²", "sp"],
+  answer: 1,
+},
+{
+  question: "Which of these complexes exhibits chelation?",
+  options: ["[Cu(NH₃)₄]²⁺", "[Fe(CN)₆]³⁻", "[Cu(EDTA)]²⁻", "[CoCl₄]²⁻"],
+  answer: 2,
+},
+{
+  question: "Which transition metal ion is responsible for the red color of blood?",
+  options: ["Fe²⁺", "Cu²⁺", "Cr³⁺", "Zn²⁺"],
+  answer: 0,
+},
+{
+  question: "The magnetic moment is directly related to:",
+  options: ["Ion size", "Number of unpaired electrons", "Atomic radius", "Ionization energy"],
+  answer: 1,
+},
+{
+  question: "Which of the following complexes is diamagnetic?",
+  options: ["[Fe(CN)₆]⁴⁻", "[Fe(H₂O)₆]²⁺", "[Mn(H₂O)₆]²⁺", "[CoCl₄]²⁻"],
+  answer: 0,
+},
+{
+  question: "Which of the following elements does not follow typical transition metal properties?",
+  options: ["Sc", "Zn", "Cu", "Cr"],
+  answer: 1,
+},
+{
+  question: "Which transition metal has the lowest melting point?",
+  options: ["Hg", "Ag", "Cu", "Zn"],
+  answer: 0,
+},
+{
+  question: "What is the common oxidation state of cobalt in complexes?",
+  options: ["+1", "+2", "+3", "+4"],
+  answer: 2,
+},
+{
+  question: "Which element is used in aircraft engines due to its high strength?",
+  options: ["Aluminum", "Titanium", "Zinc", "Iron"],
+  answer: 1,
+},
+{
+  question: "The ion [Fe(CN)₆]³⁻ is:",
+  options: ["Green", "Yellow", "Colorless", "Blue"],
+  answer: 1,
+},
+{
+  question: "Which ligand is bidentate?",
+  options: ["H₂O", "NH₃", "CO", "en (ethylenediamine)"],
+  answer: 3,
+},
+{
+  question: "Which of the following is NOT a common ligand?",
+  options: ["H₂O", "NH₃", "NO₃⁻", "CN⁻"],
+  answer: 2,
+},
+{
+  question: "Which ion gives a white precipitate with NaOH that is amphoteric?",
+  options: ["Fe³⁺", "Zn²⁺", "Cu²⁺", "Ni²⁺"],
+  answer: 1,
+},
+{
+  question: "Which is the correct order of increasing field strength of ligands?",
+  options: ["Cl⁻ < H₂O < NH₃ < CN⁻", "NH₃ < Cl⁻ < H₂O < CN⁻", "CN⁻ < Cl⁻ < H₂O < NH₃", "Cl⁻ < CN⁻ < NH₃ < H₂O"],
+  answer: 0,
+},
+{
+  question: "Which transition metal is found in vitamin B12?",
+  options: ["Cobalt", "Iron", "Nickel", "Zinc"],
+  answer: 0,
+},
+{
+  question: "Which element is commonly used in rechargeable batteries?",
+  options: ["Zn", "Ni", "Cr", "Mn"],
+  answer: 1,
+},
+{
+  question: "Which ion forms green-colored solution in water?",
+  options: ["Cu²⁺", "Fe³⁺", "Cr³⁺", "Fe²⁺"],
+  answer: 2,
+},
+{
+  question: "Which of these metals can exhibit +8 oxidation state?",
+  options: ["Os", "Fe", "Mn", "Cr"],
+  answer: 0,
+},
+{
+  question: "Which metal complex is used in cancer treatment?",
+  options: ["Cisplatin", "Ferrocene", "Zinc oxide", "Potassium dichromate"],
+  answer: 0,
+},
+{
+  question: "Which property explains the catalytic activity of transition metals?",
+  options: ["High atomic weight", "Unpaired d electrons", "Colorful ions", "Shiny surfaces"],
+  answer: 1,
+},
+{
+  question: "Which complex shows linkage isomerism?",
+  options: ["[Fe(CN)₆]³⁻", "[Co(NH₃)₅(NO₂)]²⁺", "[Ni(H₂O)₆]²⁺", "[Cu(NH₃)₄]²⁺"],
+  answer: 1,
+},
     ],
     hard: [
       {
@@ -3198,7 +4889,207 @@ const topics = {
         options: ["Pt", "V₂O₅", "Fe", "Ni"],
         answer: 1,
       },
-      // Add 40 more...
+      {
+  question: "What is the maximum oxidation state shown by manganese?",
+  options: ["+4", "+5", "+6", "+7"],
+  answer: 3,
+},
+{
+  question: "Which of the following ions is colorless?",
+  options: ["Ti³⁺", "Sc³⁺", "V³⁺", "Cr³⁺"],
+  answer: 1,
+},
+{
+  question: "What is the coordination number in [Cr(NH₃)₄Cl₂]⁺?",
+  options: ["4", "5", "6", "2"],
+  answer: 2,
+},
+{
+  question: "Which element shows highest number of oxidation states?",
+  options: ["Fe", "Mn", "Cr", "Cu"],
+  answer: 1,
+},
+{
+  question: "The geometry of [Cu(NH₃)₄]²⁺ is:",
+  options: ["Tetrahedral", "Square planar", "Octahedral", "Trigonal planar"],
+  answer: 1,
+},
+{
+  question: "Which of the following is an example of a low-spin complex?",
+  options: ["[FeF₆]³⁻", "[Fe(CN)₆]³⁻", "[Fe(H₂O)₆]³⁺", "[FeCl₆]³⁻"],
+  answer: 1,
+},
+{
+  question: "The ligand ethylenediamine is classified as:",
+  options: ["Monodentate", "Bidentate", "Tridentate", "Polydentate"],
+  answer: 1,
+},
+{
+  question: "Which of the following exhibits Jahn-Teller distortion?",
+  options: ["Cr³⁺", "Ni²⁺", "Cu²⁺", "Zn²⁺"],
+  answer: 2,
+},
+{
+  question: "Which of these is NOT a property of transition metals?",
+  options: ["High melting point", "Variable oxidation states", "Form ionic bonds only", "Colored compounds"],
+  answer: 2,
+},
+{
+  question: "Which complex exhibits optical isomerism?",
+  options: ["[Cr(NH₃)₆]³⁺", "[Fe(CN)₆]³⁻", "[Co(en)₃]³⁺", "[Cu(H₂O)₄]²⁺"],
+  answer: 2,
+},
+{
+  question: "Which element shows +1 oxidation state in its most stable ion?",
+  options: ["Fe", "Cu", "Ni", "Cr"],
+  answer: 1,
+},
+{
+  question: "Which of the following forms a brown complex with thiocyanate?",
+  options: ["Cu²⁺", "Zn²⁺", "Fe³⁺", "Co²⁺"],
+  answer: 2,
+},
+{
+  question: "Which compound is used in breathalyzer tests?",
+  options: ["K₂Cr₂O₇", "CuSO₄", "FeCl₃", "KMnO₄"],
+  answer: 0,
+},
+{
+  question: "Which transition element forms ferrocene?",
+  options: ["Fe", "Co", "Ni", "Cu"],
+  answer: 0,
+},
+{
+  question: "Which element has the electron configuration [Ar] 4s¹ 3d¹⁰?",
+  options: ["Ni", "Zn", "Cu", "Cr"],
+  answer: 2,
+},
+{
+  question: "Which of the following is NOT a characteristic of d-block elements?",
+  options: ["Catalysis", "Colored ions", "Complete d-subshell", "Variable valency"],
+  answer: 2,
+},
+{
+  question: "Which of these ions has a d⁵ configuration?",
+  options: ["Mn²⁺", "Fe³⁺", "Cr²⁺", "V²⁺"],
+  answer: 0,
+},
+{
+  question: "Which transition metal is part of chlorophyll?",
+  options: ["Fe", "Mg", "Zn", "Cu"],
+  answer: 1,
+},
+{
+  question: "What is the oxidation state of chromium in Cr₂O₇²⁻?",
+  options: ["+3", "+6", "+2", "+7"],
+  answer: 1,
+},
+{
+  question: "Which transition element is liquid at room temperature?",
+  options: ["Hg", "Zn", "Cd", "Sn"],
+  answer: 0,
+},
+{
+  question: "Which of these d-block elements is NOT considered a transition metal by IUPAC definition?",
+  options: ["Zn", "Fe", "Cr", "Ti"],
+  answer: 0,
+},
+{
+  question: "The effective nuclear charge across a transition series:",
+  options: ["Increases", "Decreases", "Remains same", "Fluctuates"],
+  answer: 0,
+},
+{
+  question: "Why are transition metals often paramagnetic?",
+  options: ["Full s-orbitals", "Presence of unpaired d-electrons", "Low ionization energy", "Hybridization"],
+  answer: 1,
+},
+{
+  question: "Which of these transition metals is the most reactive?",
+  options: ["Fe", "Cu", "Zn", "Hg"],
+  answer: 2,
+},
+{
+  question: "Which complex shows ionization isomerism?",
+  options: ["[Co(NH₃)₅Br]SO₄", "[Fe(CN)₆]⁴⁻", "[Cu(NH₃)₄]²⁺", "[Cr(H₂O)₆]³⁺"],
+  answer: 0,
+},
+{
+  question: "What is the oxidation number of Mo in MoO₄²⁻?",
+  options: ["+4", "+5", "+6", "+7"],
+  answer: 2,
+},
+{
+  question: "Which metal is used as a catalyst in the contact process?",
+  options: ["Pt", "V₂O₅", "Fe", "Ni"],
+  answer: 1,
+},
+{
+  question: "What is the oxidation state of iron in Fe(CN)₆⁴⁻?",
+  options: ["+3", "+4", "+2", +1],
+  answer: 2,
+},
+{
+  question: "Which of these does NOT exhibit variable oxidation states?",
+  options: ["Cu", "Zn", "Fe", "Mn"],
+  answer: 1,
+},
+{
+  question: "Which of these transition metals can form square planar complexes?",
+  options: ["Fe", "Co", "Ni", "Zn"],
+  answer: 2,
+},
+{
+  question: "Which property of ligands affects the splitting energy in crystal field theory?",
+  options: ["Size", "Charge", "Field strength", "Color"],
+  answer: 2,
+},
+{
+  question: "What is the oxidation number of Os in OsO₄?",
+  options: ["+4", "+6", "+8", "+2"],
+  answer: 2,
+},
+{
+  question: "Which d-block element is commonly used in light bulb filaments?",
+  options: ["Tungsten", "Molybdenum", "Zinc", "Iron"],
+  answer: 0,
+},
+{
+  question: "Which of the following complexes shows geometrical isomerism?",
+  options: ["[Pt(NH₃)₂Cl₂]", "[Cu(NH₃)₄]²⁺", "[Fe(CN)₆]³⁻", "[Ni(CO)₄]"],
+  answer: 0,
+},
+{
+  question: "Which of the following transition metals forms the strongest metallic bonds?",
+  options: ["Fe", "Ni", "W", "Ag"],
+  answer: 2,
+},
+{
+  question: "Which metal complex is diamagnetic and square planar?",
+  options: ["[Ni(CN)₄]²⁻", "[NiCl₄]²⁻", "[Cu(NH₃)₄]²⁺", "[CoCl₄]²⁻"],
+  answer: 0,
+},
+{
+  question: "Which element has the electron configuration [Xe] 4f¹⁴ 5d⁶ 6s²?",
+  options: ["Os", "Re", "Ir", "Pt"],
+  answer: 3,
+},
+{
+  question: "Which of the following is not a chelating ligand?",
+  options: ["EDTA", "en", "H₂O", "oxalate"],
+  answer: 2,
+},
+{
+  question: "The brown ring test is used to detect:",
+  options: ["Chloride", "Nitrate", "Sulfate", "Carbonate"],
+  answer: 1,
+},
+{
+  question: "Which of the following shows color due to d-d transitions?",
+  options: ["Sc³⁺", "Zn²⁺", "Fe²⁺", "Cu⁺"],
+  answer: 2,
+}
+
     ],
   },
 };
